@@ -1,0 +1,237 @@
+Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value
+AI-1223-TWT-12V-R	"PUI Audio, Inc."	DK	668-1018-ND	"Buzzer, Magnetic, 12mm dia x 9.7mm, 12VDC"	Buzzer	*	12V	F/TMB	*
+04025A330JAT2A	AVX	DK	478-1076-1-ND	"Capacitor, 33 pF, 50V, 5%, NP0, 0402"	Capacitor	5%	50V	402	33 pF
+GRM216R71H103KA01D	Murata	DK	490-1664-1-ND	"Capacitor, 0.01 uF 50V, 10%, X7R, 0805"	Capacitor	10%	50V	805	0.01 uF
+C1608X7R1H473K	TDK	NW	90R7721	"Capacitor, Ceramic, 0.047 uF 50V, 10%, 0603, X7R"	Capacitor	10%	50V	603	0.047 uF
+LMK105BJ104KV-F	Taiyo Yuden	DK	587-1227-1-ND	"Capacitor, Ceramic Multilayer, 0.1 uF 10V, 10%, 0402"	Capacitor	10%	10V	402	0.1 uF
+C1608X7R1E104K080AA	TDK	DK	445-1316-1-ND	"Capacitor, Ceramic, .1uF 25V 10% 0603 X7R"	Capacitor	10%	25V	603	0.1 uF
+CGA3E2X7R1H222K080AA	TDK	DK	445-5660-1-ND	"Capacitor, Ceramic, 2.2nF 50V 10% 0603 X7R"	Capacitor	10%	50V	603	2.2nF
+GRM21BR71H104KA01L	Murata	NW	38K1694	"Capacitor, Ceramic, 0.1 uF 50V, 10%, 0805, X7R"	Capacitor	10%	50V	805	0.1 uF
+MC0603F105Z100CT	Multicomp	NW	06R5073	"Capacitor, Ceramic, 1 uF 10V, +80%/-20%, 0603, Y5V"	Capacitor	*	10V	603	1 uF
+C1608X5R1C105K	TDK	NW	90R7675	"Capacitor, Ceramic, 1UF, 16V, X5R, 10%, 0603"	Capacitor	10%	16V	603	1 uF
+GRM32RR71H105KA01L	Murata	NW	97K0677	"Capacitor, Ceramic, 1 uF, 50V, X7R, 10%, 1210"	Capacitor	10%	50V	1206	1 uF
+CC1206KKX7R7BB105	Yageo	NW	68R4957	"Capacitor, Ceramic, 1 uF, 16V, X7R, 10%, 1206"	Capacitor	10%	16V	1206	1 uF
+CC0402MRX7R7BB103	Yageo	NW	68R4679	"Capacitor, Ceramic, 0.01 uF, 16V, X7$, 20%, 0402"	Capacitor	20%	16V	402	10 nF
+GRM188R60J106ME47D	Murata	NW	24R6334	"Capacitor, Ceramic, 10 uF 6.3V, 20%, 0603, X5R"	Capacitor	20%	6.3V	603	10 uF
+GRM21BR61C106KE15L	Murata	NW	35R0687	"Capacitor, Ceramic, 10 uF 16V, 10%, X5R, 0805"	Capacitor	10%	16V	805	10 uF
+LMK316F106ZL-T	Taiyo Yuden	NW	08P5178	"Capacitor, Ceramic, 10 uF, 10V, Y5V, +80%/-20%, 1206"	Capacitor	*	10V	1206	10 uF
+GRM31CR6YA106KA12L	Murata	NW	72R4211	"Capacitor, Ceramic, 10UF, 35V, X5R, 10%, 1206"	Capacitor	10%	35V	1206	10 uF
+T491A106M020AT	Kemet	DK	399-5152-1-ND	"Capacitor, Tantalum, 10uF 20V ,CT3216"	Capacitor	*	20V	CT3216	10 uF
+C4532Y5V1A107Z	TDK	NW	90R7861	"Capacitor, Ceramic, 100 uF 10V, +80%/-20%, 1812, Y5V"	Capacitor	*	10V	1812	100 uF
+107CKE035M	Illinois Capacitor	NW	69K7903	"Capacitor, Alum elec, 100 uF 35V, 20%, Radial 6.3mm Dia"	Capacitor	20%	35V	"E2,5-7"	100 uF
+GRM188R61E225KA12D	Murata	NW	13T1193	"Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R"	Capacitor	10%	25V	603	2.2 uF
+UMK316F225ZG-T	Taiyo Yuden	NW	08P5201	"*NOT NORMALLY STOCKED Capacitor, Ceramic, 2.2 uF 50V, +80%/-20%, 1206, Y5V"	Capacitor	*	50V	1206	2.2 uF
+GRM21BR60J226ME39L	Murata	NW	24R6338	"Capacitor, Ceramic, 22 uF, 6.3V, X5R, 20%, 0805"	Capacitor	20%	6.3V	0805	22 uF
+JMK316F226ZL-T	Taiyo Yuden	NW	84R9730	"Capacitor, Ceramic, 22 uF, 6.3V, Y5V, +80%/-20%, 1206"	Capacitor	*	6.3V	1206	22 uF
+GRM32ER61E226ME15L	Murata	NW	24R6350	"Capacitor, Ceramic Multilayer, 22 uF 25V, 20%, 1210, X5R"	Capacitor	20%	25V	1210	22 uF
+08051C332KAT2A	AVX	NW	96M1364	"Capacitor, Ceramic, 3.3 nF 100V, 10%, 0805, X7R"	Capacitor	10%	100V	805	3.3 nF
+C0603C330J5GACTU	Kemet	NW	64K2857	"Capacitor, Ceramic, 33 pF, 50V, C0G, 5%, 0603"	Capacitor	5%	50V	603	33 pF
+08051A330JAT2A	AVX	NW	96K4771	"Capacitor, Ceramic, 33 pF 100V, 5%, 0805 C0G"	Capacitor	5%	100V	805	33 pF
+MCGPR25V337M8X14	Multicomp	NW	97M4092	"Capacitor, Alum Elec, 330 uF 25V, 20%, Radial 8mm Dia"	Capacitor	20%	25V	"E3,5-8"	330 uF
+TR8M475M016C4000	Vishay-Sprague	DK	718-1676-1-ND	"Capacitor, Tantalum, 4.7uF 16V ,0603"	Capacitor	20%	16V	603	4.7 uF
+MC0805X475K250CT	Multicomp	NW	06R4181	"Capacitor, Ceramic, 4.7 uF 25V, 10%, X5R, 0805"	Capacitor	10%	25V	805	4.7 uF
+MC1206F475Z160CT	Multicomp	NW	06R4387	"Capacitor, Ceramic, 4.7 uF 16V, +80%/-20%, 1206, Y5V"	Capacitor	*	16V	1206	4.7 uF
+GRM31CR61A476ME15L	Murata	DK	490-5528-1-ND	"Capacitor, Ceramic, 47 uF, 10V, X5R, 20%, 1206"	Capacitor	20%	10V	1206	47 uF
+C1608C0G1H471J080AA	TDK	DK	445-1289-1-ND	"Capacitor, Ceramic, 470pF 50V, NP0, 0603"	Capacitor	5%	50V	603	470 pF
+SV09AC105KAR	AVX	DK	478-4051-ND	"Capacitor, Ceramic, 1uF, 1000V, X7R, radial"	Capacitor	10%	1000V	Radial	1 uF
+UUD1A102MNL1GS	NICHICON	NW	58R3386	"Capacitor, Alum Elec, 1000 uF, 10V, 20%, SMD"	Capacitor	20%	10V	"Radial Can, SMD"	1000 uF
+C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 0603"	Capacitor	+-.5pf	50V	603	8pF
+1734035-2	TE Connectivity	DK	A31727CT-ND	"Connector, USB, MiniB. SMT RT"	Connector	*	*	*	*
+39502-1002	Molex	NW	03N5770	"Eurostyle Terminal Block, 2ckt, horizontal/RA, rct"	Connector	*	*	*	*
+39500-0002	Molex	NW	21M3111	"Eurostyle pluggable screw terminal block, 3.5mm pitch (mates with 39502-1002)"	Connector	*	*	*	*
+50212-8100	Molex	NW	95C1851	"Dura-Clik terminal, 30-24awg, tin, bag"	Connector	*	*	*	*
+502352-0400	Molex	NW	08R4877	"Molex Dura-Clik Header, 4pos, RA, SMT"	Connector	*	*	*	*
+502352-0600	Molex	NW	08R4878	"Molex Dura-Clik Header, 6pos, RA, SMT"	Connector	*	*	*	*
+55959-1030	Molex	NW	09J7567	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
+87438-0242	Molex	NW	19K4661	"Pico-Spox header, 2pos, RA, SMT"	Connector	*	*	*	*
+43045-0218	Molex	NW	28M9399	"Micro-Fit header, 2pos, vert, SMT, Solder Tab Retention, Tin Plating"	Connector	*	*	*	*
+67996-114HLF	FCI	NW	30M1973	"""0.1"""" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"""	Connector	*	*	*	*
+5002	Keystone	DK	5002K-ND	"""Miniature Test Point, White, 0.04"""" Mounting Dia,"""	Connector	*	*	*	*
+43045-0406	Molex	NW	56H9461	"Micro-Fit header, 4pos, RA, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*
+87438-0342	Molex	NW	94M1089	"Pico-Spox header, 3pos, RA, SMT"	Connector	*	*	*	*
+776262-1	TE Connectivity	DK	A106462-ND	AmpSeal 14-pin vertical header	Connector	*	*	*	*
+770854-1	TE Connectivity	NW	90B6762	"AmpSeal crimp terminal, female, 20-16awg"	Connector	*	*	*	*
+776280-1	TE Connectivity	Avnet Express	776280-1	AmpSeal 8-pin RA header	Connector	*	*	*	*
+776286-1	TE Connectivity	NW	30C8976	"AmpSeal plug, 8pos, black"	Connector	*	*	*	*
+1-776276-1	TE Connectivity	DK	A106572-ND	AmpSeal 8-pin vertical header	Connector	*	*	*	*
+43045-1006	Molex	DK	WM3255CT-ND	"Micro-Fit header, 10pos, RA, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*
+43045-2409	Molex	DK	WM3261CT-ND	"Micro-Fit header, 24pos, RA, SMT, Solder Tab Retention, Tin Plating"	Connector	*	*	*	*
+19420-0002	Molex	DK	WM2978CT-ND	"MX-150L terminal, female (use with plug), tin plated, 22-18awg"	Connector	*	*	*	*
+19418-0018	Molex	DK	WM17409-ND	"MX-150L plug, 4pos, 22-18awg"	Connector	*	*	*	*
+19427-0032	Molex	DK	WM17505-ND	"MX-150L header, PCB mount, RA, 4pos"	Connector	*	*	*	*
+19427-0017	Molex	DK	WM17507-ND	"MX-150L header, PCB mount, RA, 8pos"	Connector	*	*	*	*
+43045-0615	Molex	DK	WM6688CT-ND	"Micro-Fit header, 6pos, vertical, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*
+43045-1016	Molex	DK	WM6690CT-ND	"Micro-Fit header, 10pos, vert, SMT, Press-Fit Retention, 0.38 um Gold"	Connector	*	*	*	*
+502351-0200	Molex	NW	08R4872	"Dura-Clik receptacle (plug), 2pos"	Connector	*	*	*	*
+502352-0200	Molex	DK	WM7169CT-ND	"Molex Dura-Clik Header, 2pos, RA, SMT"	Connector	*	*	*	*
+56134-9000	Molex	DK	WM3454CT-ND	"MicroClas terminal, 22-28awg, tin"	Connector	*	*	*	*
+502352-0800	Molex	DK	WM7175CT-ND	"Molex Dura-Clik Header, 8pos, RA, SMT"	Connector	*	*	*	*
+39502-1004	Molex	DK	WM7772-ND	"Molex Eurostyle Header, 4pos, RA, Through-Hole"	Connector	*	*	*	*
+39502-1006	Molex	DK	WM7774-ND	"Molex Eurostyle Header, 6pos, RA, Through-Hole"	Connector	*	*	*	*
+5-104652-1	TE	DK	A33546-ND	"""AMPMODU 0.05"""" board-to-board receptacle, 10pos, vert, SMT"""	Connector	*	*	*	*
+56134-9100	Molex	NW	59J0986	"Micro-Clasp terminal, 28-22awg, tin"	Connector	*	*	*	*
+51353-3800	Molex	DK	WM43440ND	"Micro-Clasp plug, 38pos, 2 row"	Connector	*	*	*	*
+51353-2000	Molex	DK	WM3363-ND	"MicroClasp plug, 20pos, dual row"	Connector	*	*	*	*
+55959-3830	Molex	Arrow	559593830	"Micro-Clasp header, 38pos, 2 row, through hole"	Connector	*	*	*	*
+55959-2030	Molex	NW	09J7572	"Micro-Clasp header, 20pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
+6-534237-8	TE Connectivity	DK	A32916-ND	"Header, Female socket, .1�۝ 1-row, 20-pos"	Connector	*	*	*	*
+534237-4	TE Connectivity	DK	A26418-ND	"Header, Female socket, .1�۝ 1-row, 6-pos"	Connector	*	*	*	*
+2213S-20G	Multicomp	NW	08N6794	"""Header, Male pin, 0.1"""", 20 pos, 2 rows"""	Connector	*	*	*	*
+9-146274-0-20	TE Connectivity	DK	A34259-20-ND	"Header, Male pin, .1�۝ 1-row, 20 pos, breakable (Long Pins)"	Connector	*	*	*	*
+2-826629-0	TE Connectivity	DK	A106709-ND	"Header, Male pin, .1�۝ 1-row, 20 pos, breakable (Short Pins)"	Connector	*	*	*	*
+4-103322-0-24	TE Connectivity	DK	A26536-24-ND	"Header, .1�۝ 2-row, 48-pos, breakable (Long Pins)"	Connector	*	*	*	*
+3-826925-6	TE Connectivity	DK	A106443-ND	"Header, .1�۝ 2-row, 72-pos, breakable (Short Pins)"	Connector	*	*	*	*
+43650-0309	Molex	DK	WM1881CT-ND	"Header, Microfit 3pos, RA, SMD"	Connector	*	*	*	*
+43650-0321	Molex	NW	34R5766	"** DO NOT USE - NO DISTRIBUTORS ** Header, Microfit 3pos, SMD"	Connector	*	*	*	*
+43045-0415	Molex	NW	56H9469	"Header, Microfit 4pos, SMD"	Connector	*	*	*	*
+142-0701-801	Emmerson	DK	J502-ND	"Coaxial, SMA, Female, End Launch for .062�۝ board"	Connector	*	*	*	18GHz
+282836-2	TE Connectivity	DK	A98076-ND	"Header, Screw Terminal, 2-pos, 5mm"	Connector	*	*	*	*
+0908-2-15-20-75-14-11-0	Mill-Max	DK	ED90386-ND	"Pin, Spring Loaded, pogo. 7.5mm max height x 1.4mm stroke"	Connector	*	*	*	*
+R30-1011102	Harwin Inc	DK	952-1486-ND	"Standoff, Hex, M3 x 11mm. (suitable for .1�۝ header board-to-board stack)"	Connector	*	*	*	*
+ECS-200-8-30B-CKM	ECS Inc	DK	XC1841CT-ND	"Crystal, 20MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	20MHz
+ECS-100-8-30B-CKM	ECS Inc	DK	XC1835CT-ND	"Crystal, 10MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	10MHz
+R-78C3.3-1.0	Recom	DK	945-1394-5-ND	"DC-DC Converter, 1A, 9-42V input, 3.3V output, Non-Isolated, 78xx replacement"	DC/DC	*	3.3V	SIP3	1A
+R-78C5.0-1.0	Recom	DK	945-1395-5-ND	"DC-DC Converter, 1A, 9-42V input, 5V output, Non-Isolated, 7805 replacement"	DC/DC	*	5V	SIP3	1A
+PTH08T260WAD	Texas Instruments	DK	296-21404-ND	"DC-DC Converter, 3-A, 4.5 to 14V Input, Non-Isolated, Wide Output, Adjustable Power Module"	DC/DC	*	*	*	*
+BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V"	Diode	*	*	SOT-23	*
+BZX84C5V1TS-7-F	Diodes Inc	DK	BZX84C5V1TS-FDICT-ND	"Diode array, Zener, 5.1 V, 3 discrete diodes, 200 mW, SOT-363"	Diode	*	5.1 V	SOD-323	5.1 V
+MMSZ5226BS-7-F	Diodes Inc	DK	MMSZ5226BS-FDICT-ND	"Diode, Zener, 3.3V 200mW, SOD-323"	Diode	*	3.3V	SOD-323	3.3V
+MM3Z16VT1G	ON Semiconductor	DK	MM3Z16VT1GOSCT-ND	"Diode, Zener, 16V, 200 mW, SOD-323"	Diode	*	16 V	SOD-323	16 V
+B130-13-F	Diodes Inc	DK	B130-FDICT-ND	"Schottky rectifier, 30V, 1A, SMA"	Diode	*	30 V	SMA	*
+MM3Z5V1T1G	Diodes Inc	NW	67H6879	"Zener diode, 200 mW, 5.1V, SOD-123"	Diode	*	5.1 V	SOD-323	5.1 V
+MMSZ5231B	Fairchild Semiconductor	NW	58K1909	"Zener Diode, 5.1 V, 500 mW, SOD-123"	Diode	*	5.1V	SOD-123	5.1V
+MBR0540T1G	ON Semiconductor	DK	MBR0540T1GOSCT-ND	"** DO NOT USE ** Diode, Schottky, 40V 0.5A SOD-123"	Diode	*	40V	SOD-123	*
+STPS0560Z	STMICROELECTRONICS	NW	89K1573	"Diode, Schottky, 40V, 500 mA, SOD-123"	Diode	*	40V	SOD-123	*
+1N4004	FAIRCHILD SEMICONDUCTOR	NW	67R2154	"Diode, general purpose, 400V, 1A"	Diode	*	400V	DO-41	*
+AZ23C3V3-7-F	Diodes Inc	DK	AZ23C3V3-FDICT-ND	"Diode, Zener, Dual CA, 3.3V SOT23"	Diode	*	3.3V	SOT-23	3.3V
+46-101 BLK	Grayhill	NW	58M3271	"Switch, Pushbutton, SPDT, 250mA, 220V, Black"	Electromechanical	*	*	*	*
+46-101 RED	Grayhill	NW	58M3272	"Switch, Pushbutton, SPDT, 250mA, 220V, Red"	Electromechanical	*	*	*	*
+3003	Keystone	NW	66F5625	"Battery Clip, 20mm Coin Cell, Through Hole"	Electromechanical	*	*	*	*
+0485.500DR	Littlefuse	DK	F5920CT-ND	"Fuse, SMT, 500mA, 600VDC"	Fuse	*	*	2-SMD	*
+C1Q 750	Bel Fuse	DK	507-1076-1-ND	"SMT Fuse, 750 mA, 125 V, Fast-Blow, 1206, C1Q"	Fuse	*	125 V	1206	750 mA
+56200001009	Littelfuse Wickmann	NW	67K2295	"Fuse holder, TR5, PCB mount"	Fuses and Holders	*	250 V	*	*
+01530008Z	Littlefuse	NW	67K1421	"Miniature Blade Fuse Holder, Vertical, 15A, 32V"	Fuses and Holders	*	32V	*	*
+ADS1100A0IDBVT	Texas Instruments	NW	20H0708	"IC, ADC, 16-bit, self-calibrating, 128sps, SOT-23-6"	"ICs, ADC"	*	*	SOT-23-6	*
+CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPROM, SOIC-8"	"ICs, Memory"	*	*	SOIC-8	*
+MCP2515-I/SO	Microchip	DK	MCP2515-I/SO-ND	"IC, CAN Controller. SPI interface, SOIC-18"	"ICs, Communication"	*	*	SOIC-18	*
+FT232RL	FTDI	DK	768-1007-1-ND	"IC, USB Serial, SSOP-28"	"Ics, Communication"	*	*	SSOP-28	*
+SN65HVD230D	Texas Instruments	NW	75C7744	"IC, CAN Transceiver, 3.3V, with Standby, SOIC-8"	"ICs, Communication"	*	*	SOIC-8	*
+ISO7241CDW	Texas Instruments	NW	73M3155	"IC, Digital Isolator, 150Mbps"	"ICs, Isolation"	*	*	SOIC-16	*
+ISO1541DR	Texas Instruments	DK	296-34872-1-ND	"IC, I2C Digital Isolator, 1Mbps"	"ICs, Isolation"	*	*	SOIC-8	*
+NE555N	STMICROELECTRONICS	NW	89K1486	"IC, Timer, 555, DIP8"	"ICs, Linear"	*	16V	DIP8	*
+LMP8601MA/NOPB	Texas Instruments	NW	19P7829	"IC, Current Sense Amplifier, 60KHz, 20x Fixed Gain, SOIC8"	"ICs, Linear"	*	*	SOIC-8	*
+LTC1563-2CGN#PBF	Linear Technology	DK	LTC1563-2CGN#PBF-ND	"IC, Filter, Lowpass, RC, 4th order Butterworth, SSOP16"	"ICs, Linear"	*	11V	SSOP-16	*
+SN74AHC1G86DBVR	Texas Instruments	NW	10C2398	"IC, Single XOR Gate, SOT-23-5"	"Ics, Logic"	*	5.5V	SOT-23-5	*
+"74HCT164D,652"	NXP Semiconductors	DK	568-2791-5-ND	"IC, Shift Register, 74HCT164D, SO14"	"ICs, Logic"	*	*	SOIC-14	*
+MM74HC573MTC	Fairchild Semiconductor	NW	82C9246	"IC, Octal D-Latch, 3-State, TSSOP-20"	"ICs, Logic"	*	*	TSSOP-20	*
+SN74LVC1G17DBVR	Texas Instruments	DK	296-11933-1-ND	"IC, Buffer, schmit trig, SOT23-5"	"ICs, Logic"	*	5.5V	SOT-23-5	*
+SN74LVC2G07DBVR	Texas Instruments	DK	296-13494-1-ND	"IC, Buffer, 2-bit, non-invert, open drain, SOT-23-6"	"ICs, Logic"	*	*	SOT-23-6	*
+74ACT16244DGGR	Texas Instruments	DK	296-1004-1-ND	"IC, Buffer, 16-bit, Push-pull outputs, TSSOP48"	"ICs, Logic"	*	*	TSSOP-48	*
+TXB0108PWR	Texas Instruments	DK	296-21527-1-ND	"IC, Logic Level Translator. Bidirectional, 8-bit, TSSOP20"	"IC, Logic"	*	1.2V-5.5V	TSSOP20	*
+AD8662ARMZ	Analog Devices	DK	AD8662ARMZ-REELCT-ND	"IC, Dual Op-Amp, Single Supply Rail-Rail, 4MHz, CMOS, 8MSOP"	"ICs, Op-Amps"	*	*	8-MSOP	*
+TPS560200DBVR	Texas Instruments			"IC, Synchronous Step-Down Converter, 4.5V - 17V Input, 5-SOT-23"	"ICs, Power Elec"	*	*	SOT-23-5	*
+ADUM5000ARWZ	Analog Devices	NW	19P8235	"IC, DC/DC Conv, 180MHz, 3.3V-5V in, 3.3V/5V out"	"ICs, Power Elec"	*	*	SOIC-16	*
+LMR14206XMKE/NOPB	Texas Instruments	NW	76T5004	"IC, DC-DC Conv, Buck, 42 Vin, 1.25 MHz, SOT23-6"	"ICs, Power Elec"	*	*	SOT-23-6	*
+ULN2003V12DR	Texas Instruments	DK	296-30538-1-ND	"IC, Low Power 7ch Sink Driver, SOIC-16"	"ICs, Power Elec"	*	*	SOIC-16	*
+LTC1156CSW	Linear Technology	DK	LTC1156CSW#PBF-ND	High-side N-Channel MOSFET Gate Driver	"ICs, Power Elec"	*	*	SOIC-16	*
+LMR14203XMKE/NOPB	Texas Instruments	NW	76T50003	"IC, DC-DC Conv, Buck, 42 Vin, 1.25 MHz, SOT23-6"	"ICs, Power Elec"	*	*	SOT23-6	*
+PRTR5V0U8S118	NXP Semiconductors	MCM	118-PRTR5V0U8S	"** DO NOT USE - OBSOLETE ** IC, ESD protection TSSOP-10"	"ICs, Protection"	*	*	TSSOP-10	*
+VLP8040T-220M	TDK	DK	445-6576-1-ND	"Inductor, 22 uH, power, 2.2A"	Inductor	*	*	*	22 uH
+SDR0604-180YL	Bourns	NW	61J8158	"Inductor, 18 uH, 1.5 A, unshielded, 15%, 8012"	Inductor	15%	*	8012	18 uH
+SDR0604-100ML	Bourns	NW	61J8151	"Inductor, power, 10 uH, 2 A, unshielded"	Inductor	20%	*	8012	10 uH
+BKP1608HS600-T	Taiyo Yuden	DK	587-1928-1-ND	"Inductor, Chip, 60ohm, 1.5A, 0603"	Inductor	*	*	603	60 ohm
+MH1608-221Y	Bourns Inc	DK	MH1608-221YCT-ND	"Inductor, Chip, 220ohm, 0603"	Inductor	*	*	603	220 ohm
+TLHR5400	VISHAY SEMICONDUCTOR	NW	33C1331	"LED, RED, T-1 3/4 (5MM), 10MCD, 625NM"	LED	*	2V	T1-3/4	20mA
+LGQ971	Osram	NW	05M0493	"LED, Green, 0603, 10mcd"	LED	*	*	603	GREEN
+LTST-C930KGKT	Lite-On	DK	160-1462-1-ND	"LED, Green, Clear Domed, 600mcd, 1209"	LED	*	*	1209	GrEEN
+HSMD-C190	Avago	NW	98B5046	"LED, Orange, 0603, 8mcd"	LED	*	*	603	ORANGE
+HSMH-C190	Avago	NW	40K0127	"LED, Red, 0603, 17mcd"	LED	*	*	603	RED
+LTST-C930KRKT	Lite-On	DK	160-1463-1-ND	"LED, Red, Clear Domed, 850mcd, 1209"	LED	*	*	1209	RED
+598-8120-107F	Dialight	NW	87M9430	"LED, Red Orange, 150 mcd, 625 nm, 0805"	LED	*	*	805	Red Orange (625 nm)
+SML-LX0603YW-TR	Lumex	NW	75K1443	"LED, Yellow, 0603, 14mcd"	LED	*	*	603	YELLOW
+LTST-C930KSKT	Lite-On	DK	160-1464-1-ND	"LED, Yellow, Clear Domed, 800mcd, 1209"	LED	*	*	1209	YELLOW
+SMS1105PGC	Bivar	NW	73R3983	"LED, right-angle, Green, 800 mcd, 3.3V, 0603"	LED	*	*	0603	Green
+SMP4-RGY	Bivar Inc	DK	492-1226-1-ND	"LED, Tri-Color, Red, Yellow, Green, "	LED	*	*	PLCC-4	RYG
+MCP1825T-3302E/DC	Microchip	DK	MCP1825T-3302E/DC	"LDO, 3.3V, 500 mA, SOT-223-5"	Linear Regulator	*	3.3V	SOT-223-5	3.3V
+MIC5205-3.3YM5 TR	Micrel	DK	576-1259-1-ND	"LDO, 3.3V 150mA, SOT-23-5"	Linear Regulator	*	*	SOT-23	3.3V
+TMS320F28035PNT	Texas Instruments	DK	296-32764-ND	"IC, MCU, C2000 piccolo, LQFP80"	"ICs, MCU"	*	*	LQFP-80	*
+FDN359AN	Fairchild Semiconductor	NW	38C7142	"N-channel MOSFET, 30 V, 2.7 A, SOT-23"	MOSFET	*	30 V	SOT-23	*
+FDC604P	Fairchild Semiconductor	DK	FDC604PCT-ND	"P-channel MOSFET, 20V, 5.5A, SSOT-6"	MOSFET	*	20V	SSOT-6	*
+IRF9410PBF	International Rectifier	NW	19K8340	"N CHANNEL MOSFET, 30V, 7A, SOIC"	MOSFET	*	30V	SOIC-8	*
+IRFL024ZPbF	International Rectifier	NW	63J6797	"N-Channel MOSFET, 55V, 5.1A, SOT-223"	MOSFET	*	55V	SOT-223	5.1A
+FDT439N	Fairchild Semiconductor	DK	FDT439NCT-ND	"N-Channel MOSFET, 30V, 6.3A, 2.5v logic gate, SOT-223"	MOSFET	*	30 V	SOT-223	6.3A
+FDV301N	Fairchild Semiconductor	NW	58K8856	"N-channel MOSFET, 25V, 220 mA, SOT-23"	MOSFET	*	25V	SOT-23	*
+3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
+1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*
+ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A
+IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2FormC"	Relay	*	12V	2 form C	*
+MC0805WA00000T5E-TC	Multicomp	NW	58K4927	"Resistor, 0 ohm, Jumper, 100 mW, 0805, 1%"	Resistor	1%	150V	805	0 ohm
+CRCW06030000Z0EA	Vishay Dale	NW	52K8014	"Resistor, 0 ohm, Jumper, 100 mW, 0603, 1%"	Resistor	*	*	603	0 ohm
+EXB-2HV102JV	Panasonic	DK	Y1102CT-ND	"Resistor array, 8x0402, 1 k ohm, 63 mW, 5%, 200ppm"	Resistor	5%	*	402	1k ohm
+ERJ-2RKF1021X	Panasonic	DK	P1.02KLCT-ND	"Resistor, 1.02k ohm, 0.1W, 1%, 100ppm, 0402"	Resistor	1%	*	402	1.02k ohm
+ERJ-2RKF1471X	Panasonic	NW	53W4223	"RESISTOR, THICK FILM, 1.47KOHM, 100mW, ﾱ 1%, 0402"	Resistor	1%	*	402	1.47k ohm
+CRCW06031K47FKEA	Vishay Dale	DK	541-1.47KHCT-ND	"Resistor, 1.47k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.47k ohm
+RC0603JR-071K5L	Yageo	NW	68R0139	"Resistor, 1.5k ohm, 100 mW, 5%, Thick Film, 100ppm"	Resistor	5%	50V	603	1.5k ohm
+ERJ-6GEYJ152V	Panasonic	NW	65T8789	"Resistor, 1.5k ohm 125 mW, 5%, Thick Film, 200ppm, 0805"	Resistor	5%	150V	805	1.5k ohm
+RC0402FR-071K82L	Yageo	DK	311-1.82KLRCT-ND	RES 1.82K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	1.82k ohm
+CRCW06031K82FKEA	Vishay Dale	DK	541-1.82KHCT-ND	"Resistor, 1.82k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.82k ohm
+RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	0402	100 ohm
+MC0603WGF1000T5E-TC	Multicomp	NW	58K4446	"Resistor, 100 ohm 63 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100 ohm
+RC0603FR-07100KL	Yageo	NW	98K7340	"Resistor, 100k ohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100k ohm
+ERJ-2RKF1002X	Panasonic	DK	P10.0KLCT-ND	"Resistor, 10 kohm, 100 mW, 1%, 0402"	Resistor	1%	*	402	10 kohm
+RC0603JR-1010KL	Yageo	NW	68R0215	"Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603"	Resistor	5%	50V	603	10k ohm
+RC0603FR-0720KL	Vishay Dale	NW	26R4043	"Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603"	Resistor	1%	75V	603	10k ohm
+RC0805FR-07120RL	Yageo	DK	311-120CRCT-ND	"Resistor, 120 ohm 125 mW, 5%, Thick Film 0805"	Resistor	5%	*	805	120 ohm
+ERJ-3GEYJ161V	Panasonic	DK	P160GCT-ND	"Resistor, 160 ohm, 5%, 0603"	Resistor	5%	*	603	160 ohm
+CRCW0805169RFKEA	Vishay Dale	NW	52K9913	"Resistor, 169 ohm 125 mW, 1%, 100ppm, Thick Film 0805"	Resistor	1%	150V	805	169 ohm
+CRCW04021K00JNTD	Vishay Dale	NW	23C6830	"Resistor, 1k ohm, 63 mW, 5%, Thick Film 0402"	Resistor	5%	50V	402	1k ohm
+MC0603WGF1001T5E-TC	Multicomp	NW	58K4448	"Resistor, 1k ohm 63 mW, 1%, 0603"	Resistor	1%	50V	603	1k ohm
+RC0805JR-071KL	Yageo	NW	68R0253	"Resistor, 1k ohm 125 mW, 5%, Thick Film, 0805"	Resistor	5%	150V	805	1k ohm
+RC0603FR-0720KL	Yageo	NW	68R0068	"Resistor, Thick Film, 20kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	20k ohm
+RC0603FR-102K2L	Yageo	NW	68R0123	"Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 0603"	Resistor	1%	*	603	2.2k ohm
+CRCW06032M00FKEA	Vishay Dale	NW	52K8249	"Resistor, 2 M ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	2M ohm
+RC0603FR-073K24L	Yageo	DK	311-3.24KHRCT-ND	"Resistor, 3.24k ohm, 1%, 100 mW, Thick Film 0603"	Resistor	1%	*	603	3.24k ohm
+CRCW08053R30FNEA	Vishay Dale	NW	89M6813	"Resistor, 3.3 ohm, Thick Film, 125 mW, 1%, 200ppm, 0806"	Resistor	1%	*	805	3.3 ohm
+RR0510P-3321-D	Susumu	DK	RR05P3.32KDCT-ND	"Resistor, 3.32 kohm, Thin Film, 0.5%, 0402"	Resistor	0.5%	*	0402	3.32 kohm
+RC0603FR-073R92L	Yageo	DK	311-3.92HRCT-ND	"Resistor, 3.92 ohm, 0.1W, 1%, 200ppm, 0603"	Resistor	1%	*	603	3.92 ohm
+ERJ-3GEYJ301V	Panasonic	DK	P300GCT-ND	"Resistor, 300 ohm, 5% 0603"	Resistor	5%	*	603	300 ohm
+RC0603FR-0730KL	Yageo	DK	311-30.0KHRCT-ND	"Resistor, 30k ohm, 100 mW, 1%, 100ppm, Thick Film 0603"	Resistor	1%	*	603	30k ohm
+CRCW1210330RFKEA	Vishay Dale	NW	53K3182	"Resistor, 330 ohm, 500 mW, 1%, 1210"	Resistor	1%	200V	1210	330 ohm
+ERJ-2RKF3602X	Panasonic	NW	53W4343	"Resistor, 36 kohm, 1%, 100 mW, 0402"	Resistor	1%	50V	402	36 kohm
+RC0603FR-0736KL	Yageo	DK	311-36.0KHRCT-ND	"Resistor, 36 kohm, 1%, 100 mW, 0603"	Resistor	1%	75V	603	36k ohm
+ERJ-3EKF4701V	Panasonic	DK	P4.70KHCT-ND	"Resistor, 4.7k ohm 1%, 100 mW, 100ppm, 0603"	Resistor	1%	50V	603	4.7k ohm
+ERJ-14YJ470U	Panasonic	NW	53W4126	"Resistor, 47 ohm, 5%, 500 mW, 1210"	Resistor	5%	200 V	1210	47 ohm
+CRCW251247R0FKEG	Vishay Dale	DK	541-47.0AFCT-ND	"Resistor, 47 ohm 500 mW, 1%, 2512, 500 V"	Resistor	1%	500 V	2512	47 ohm
+CRCW1210470RFKEA	Vishay Dale	DK	541-470AACT-ND	"Resistor, 470 ohm, 500 mW, 1%, 1210"	Resistor	1%	*	1210	470 ohm
+ERJ-3EKF5601V	Panasonic	NW	64R5354	"Resistor, 5.6 kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	5.6 kohm
+CRCW04025K62FKED	Vishay Dale	DK	541-5.62KLCT-ND	"Resistor, 5.62k ohm, 1/16W, 1%, 100ppm, 0402"	Resistor	1%	*	402	5.62k ohm
+RC0402FR-07510KL	Yageo	DK	311-510KLRCT-ND	RES 510K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	510 kohm
+CRCW0603510KFKEA	Vishay Dale	NW	52K8595	"Resistor, 510k ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	510k ohm
+ERA-3AEB562V	Panasonic	NW	08N2130	"Resistor, 56k ohm, 63 mW, 0.1%, ﾕ_ﾱ25ppm/ﾕ_ﾼC, 0603"	Resistor	0.10%	75V	603	56k ohm
+ERJ-3EKF6192V	Panasonic	NW	65T8501	"Resistor, Thick Film 61.9k, 100 mW, 1%, 0603"	Resistor	1.00%	75 V	603	61.9k ohm
+ERJ-3GEYJ683V	Panasonic	NW	65T8681	"Resistor, 68k ohm, 0.1W, 5%, 0603 "	Resistor	5%	150V	603	68 kohm
+ERJ-6GEYJ681V	Panasonic	NW	65T8839	"Resistor, 680 ohm, 0.125W, 5%, 0805"	Resistor	5%	*	805	680 ohm
+RC0603FR-077K5L	Yageo	NW	68R0113	"Resistor, 7.5k ohm 100 mW, 1%, 100ppm, 0603"	Resistor	1%	50V	603	7.5k ohm
+ERJ-6GEYJ820V	Panasonic	NW	53W4971	"Resistor, 82 ohm, 125 mW, 5%, 0805"	Resistor	5%	150 V	805	82 ohm
+RR1220P-9761-D-M	Susumu	DK	RR12P9.76KDCT-ND	"Resistor, 9.76k ohm, 0.1%, 25ppm, Thin Film 0805"	Resistor	0.10%	100V	805	9.76k ohm
+RC0402JR-071ML	Yageo	NW	68R2089	"RESISTOR, THICK FILM, 1MOHM, 62.5mW, 5%"	Resistor	5%	*	402	1M ohm
+CRCW04022M00FKED	Vishay Dale	DK	541-2.00MLCT-ND	RES 2.00M OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	2 M ohm
+ERT-J1VG103FA	Panasonic	NW	55T6142	"Thermistor, NTC, 10 kohm, 1%, SMD, 0603, b = 3375 K"	Thermistor	1%	*	0603	10 kohm
+FSM1LPATR	TE Connectivity	DK	450-1760-1-ND	"Tactile switch, SPST-NO, 0.05A, 12V"	Switch	*	12V	*	*
+RS-187R05A2-DS MT RT	C&K Components	DK	CKN10361CT-ND	"Switch, Tactile, 5.2x5.2mm SMD"	Switch	*	*	*	*
+B32-1060	Omron	NW	89C4238	"Keycap, for B3F and B3W series switches, white"	Switch	*	*	*	*
+TL1290AF400BR	E-Switch	DK	EG4623-ND	"Switch, Pushbutton momentary, illuminated, SPDT, 0.1A, 32V, blue"	Switch	*	32V	*	Blue
+TL1290AF400RR	E-Switch	DK	EG4624-ND	"Switch, Pushbutton momentary, illuminated, SPDT, 0.1A, 32V, red"	Switch	*	32V	*	Red
+5GTH9358222	MEC Switches	DK	679-2619-ND	"Switch, Pushbutton, SPST, Illuminated(also order actuator)"	Switch	*	*	*	*
+B3F-3152	Omron	NW	52F3555	"Switch, Pushbutton momentary, SPST-NO, 50 mA"	Switch	*	24 V	*	*
+1IS11-22.5	MEC Switches	DK	679-3299-ND	"Actuator for MEC Switches 5G series, 22mm"	Switch Actuator	*	*	*	*
+"BC846BW,115"	NXP Semiconductors	DK	568-6060-1-ND	"BJT, NPN, 65V, 100 mA, SOT-23"	Transistor	*	65V	SOT-23	*
+"BC856BW,115"	NXP Semiconductors	DK	568-6078-1-ND	"BJT, PNP, 65V, 100 mA, SOT-23"	Transistor	*	65V	SOT-23	*
+REF5030ID	Texas Instruments	NW	50M8901	"IC, Voltage Reference, 3.000 V, 0.05%"	Voltage Reference	*	*	SOIC-8	*
+MM3Z3V3ST1G	ON Semiconductor	NW	09R9503	"ZENER DIODE, 200mW, 3.3V, SOD-323"	Zener Diode	*	3.3V	SOD-323	3.3V
+PB1057CT-ND	TE Connectivity	DK	V23079D1003B301	RELAY GEN PURPOSE DPDT 2A 12V	Relay	*	12V	*	*
+WM17505-ND	Molex	DK	19427-0032	CONN HEADER 4POS RIGHT ANGLE TIN	Connector	*	*	*	*
+TL7700CDGKR	Texas Instruments	DK	296-24463-2-ND	IC SUPPLY VOLT SUPERVISOR 8VSSOP	"IC, Voltage Supervior"	*	40V	VSSOP-8	*
+ADG719BRTZ	Analog Devices	Newark	96K2067	"Analog switch, single, SPDT, SOT-23-6"	"IC, Switch"	*	*	SOT-23-6	*
+MPU-6000	InvenSense	DK	1428-1005-1-ND	"IC , 6-dof imu QFN24"	"IC, Sensor"	*	3.3v	QFN24	*
+FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	module	*

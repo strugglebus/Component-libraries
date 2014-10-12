@@ -1,0 +1,60 @@
+# EAGLE Configuration Script
+#
+# Aaron's keybindings
+# 2013-12-31
+
+Assign M1 'LAYER Bottom';
+Assign M2 'LAYER Route2';
+Assign M3 'LAYER Route15';
+Assign M4 'LAYER Top';
+
+Assign F3 'DISPLAY Top tPlace tDocu tOrigins tValues tNames Route2 Route15 -Bottom -bPlace -bDocu -bOrigins -BNames -bValues -bKeepout';
+Assign SF3 'DISPLAY -Top -tPlace -tDocu -tOrigins -tValues -tNames -tKeepout Route2 Route15 Bottom bPlace bDocu bOrigins BNames bValues';
+Assign SAF3 'DISPLAY Top tPlace tDocu tOrigins tValues tNames Route2 Route15 Bottom bPlace bDocu bOrigins BNames bValues'; 
+Assign F4 'Name';
+Assign F5 'Value';
+Assign AF6 'Move (>@)'
+Assign F7 'Move'
+Assign AF7 'Group'
+Assign F8 'Ratsnest'
+Assign AF8 'set polygon_ratsnest off';
+Assign ASF8 'set polygon_ratsnest on';
+Assign F9 'Route';
+Assign AF9 'Ripup';
+Assign F12 'Show';
+
+
+BRD:
+
+Grid mm 0.5 on;
+Grid alt mm 0.05;
+change width 0.1778;	# 7 mil trace
+change drill 0.381;		# 15 mil via drill
+change shape round;
+
+SCH:
+Assign F9 'Net';
+Assign AF9 'Delete';
+Grid Default;
+Change Width 0.008;
+
+#Menu Add Bus Change Copy Delete Display Gateswap Grid Group Invoke Junction \
+#     Label Move Name Net Pinswap Quit Script Show Split Value Window ';' \
+#     Wire Write Edit;
+
+LBR:
+
+#Menu Close Export Open Script Write ';' Edit;
+
+DEV:
+
+
+SYM:
+
+#Menu Arc Change Copy Cut Delete Display Export Grid Group Move Name Paste \
+#     Pin Quit Script Show Split Text Value Window ';' Wire Write Edit;
+
+PAC:
+
+#Menu Add Change Copy Delete Display Grid Group Move Name Pad Quit \
+#     Script Show Smd Split Text Window ';' Wire Write Edit;

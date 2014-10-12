@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE eagle SYSTEM "eagle.dtd">
+<eagle version="6.2">
+<drawing>
+<settings>
+<setting alwaysvectorfont="no"/>
+<setting verticaltext="up"/>
+</settings>
+<grid distance="0.05" unitdist="inch" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<layers>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="yes"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="yes"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="yes"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="yes"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="yes"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="yes"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="yes"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="yes"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="yes"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="yes"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="yes"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+</layers>
+<library>
+<packages>
+<package name="MAGIC_CAN_BACKPACK">
+<wire x1="35" y1="65" x2="-35" y2="65" width="0.127" layer="51"/>
+<wire x1="-35" y1="65" x2="-35" y2="20" width="0.127" layer="51"/>
+<wire x1="-35" y1="20" x2="-35" y2="3" width="0.127" layer="51"/>
+<wire x1="-35" y1="3" x2="35" y2="3" width="0.127" layer="51"/>
+<wire x1="35" y1="3" x2="35" y2="20" width="0.127" layer="51"/>
+<circle x="-30" y="60" radius="4.5" width="0.127" layer="39"/>
+<circle x="30" y="60" radius="4.5" width="0.127" layer="39"/>
+<pad name="A1" x="-28.448" y="28.57" drill="1.016" shape="square"/>
+<pad name="A2" x="-28.448" y="31.11" drill="1.016"/>
+<pad name="A3" x="-28.448" y="33.65" drill="1.016"/>
+<pad name="A4" x="-28.448" y="36.19" drill="1.016"/>
+<pad name="A5" x="-28.448" y="38.73" drill="1.016"/>
+<pad name="A6" x="-28.448" y="41.27" drill="1.016"/>
+<pad name="A7" x="-28.448" y="43.81" drill="1.016"/>
+<pad name="A8" x="-28.448" y="46.35" drill="1.016"/>
+<pad name="A9" x="-28.448" y="48.89" drill="1.016"/>
+<pad name="A10" x="-28.448" y="51.43" drill="1.016"/>
+<pad name="B1" x="29.21" y="28.57" drill="1.016" shape="square"/>
+<pad name="B2" x="29.21" y="31.11" drill="1.016"/>
+<pad name="B3" x="29.21" y="33.65" drill="1.016"/>
+<pad name="B4" x="29.21" y="36.19" drill="1.016"/>
+<pad name="B5" x="29.21" y="38.73" drill="1.016"/>
+<pad name="B6" x="29.21" y="41.27" drill="1.016"/>
+<pad name="B7" x="29.21" y="43.81" drill="1.016"/>
+<pad name="B8" x="29.21" y="46.35" drill="1.016"/>
+<pad name="B9" x="29.21" y="48.89" drill="1.016"/>
+<pad name="B10" x="29.21" y="51.43" drill="1.016"/>
+<pad name="C1" x="31.75" y="28.57" drill="1.016" shape="square"/>
+<pad name="C2" x="31.75" y="31.11" drill="1.016"/>
+<pad name="C3" x="31.75" y="33.65" drill="1.016"/>
+<pad name="C4" x="31.75" y="36.19" drill="1.016"/>
+<pad name="C5" x="31.75" y="38.73" drill="1.016"/>
+<pad name="C6" x="31.75" y="41.27" drill="1.016"/>
+<pad name="C7" x="31.75" y="43.81" drill="1.016"/>
+<pad name="C8" x="31.75" y="46.35" drill="1.016"/>
+<pad name="C9" x="31.75" y="48.89" drill="1.016"/>
+<pad name="C10" x="31.75" y="51.43" drill="1.016"/>
+<rectangle x1="28" y1="27" x2="33" y2="53" layer="40"/>
+<rectangle x1="-29.96" y1="27.04" x2="-26.96" y2="53.04" layer="40"/>
+<hole x="30" y="60" drill="4.5"/>
+<hole x="-30" y="60" drill="4.5"/>
+<wire x1="35" y1="20" x2="35" y2="65" width="0.127" layer="51"/>
+<wire x1="-35" y1="20" x2="35" y2="20" width="0.127" layer="51"/>
+</package>
+</packages>
+<symbols>
+<symbol name="MAGIC_CAN_BACKPACK">
+<wire x1="20.32" y1="15.24" x2="35.56" y2="15.24" width="0.254" layer="94"/>
+<wire x1="35.56" y1="15.24" x2="35.56" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="35.56" y1="-2.54" x2="20.32" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-2.54" x2="20.32" y2="15.24" width="0.254" layer="94"/>
+<wire x1="-25.4" y1="12.7" x2="-25.4" y2="-10.16" width="0.254" layer="94"/>
+<wire x1="-25.4" y1="-10.16" x2="-10.16" y2="-10.16" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-10.16" x2="-10.16" y2="12.7" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="12.7" x2="-25.4" y2="12.7" width="0.254" layer="94"/>
+<pin name="AIN-A0" x="-33.02" y="33.02" length="middle" direction="in"/>
+<pin name="AIN-A1" x="-33.02" y="30.48" length="middle" direction="in"/>
+<pin name="AIN-A2" x="-33.02" y="27.94" length="middle" direction="in"/>
+<pin name="AIN-A3" x="-33.02" y="25.4" length="middle" direction="in"/>
+<pin name="AIN-A4" x="-33.02" y="22.86" length="middle" direction="in"/>
+<pin name="AIN-A5" x="-33.02" y="20.32" length="middle" direction="in"/>
+<pin name="GPIO43" x="-30.48" y="10.16" length="middle"/>
+<pin name="GPIO23" x="-30.48" y="7.62" length="middle"/>
+<pin name="GPIO27" x="-30.48" y="5.08" length="middle"/>
+<pin name="GPIO26" x="-30.48" y="2.54" length="middle"/>
+<pin name="GPIO18" x="-30.48" y="0" length="middle"/>
+<pin name="GPIO8" x="-30.48" y="-2.54" length="middle"/>
+<pin name="GPIO25" x="-30.48" y="-5.08" length="middle"/>
+<pin name="GPIO6" x="-30.48" y="-7.62" length="middle"/>
+<pin name="SDA" x="-30.48" y="-12.7" length="middle"/>
+<pin name="SCL" x="-30.48" y="-15.24" length="middle"/>
+<pin name="SPICLK" x="-30.48" y="-20.32" length="middle" direction="out"/>
+<pin name="SPICS" x="-30.48" y="-22.86" length="middle" direction="out"/>
+<pin name="SPISIMO" x="-30.48" y="-25.4" length="middle" direction="out"/>
+<pin name="SPISOMI" x="-30.48" y="-27.94" length="middle" direction="in"/>
+<pin name="SERIAL-TX" x="-30.48" y="-33.02" length="middle" direction="out"/>
+<pin name="SERIAL-RX" x="-30.48" y="-35.56" length="middle" direction="in"/>
+<pin name="GND@1" x="15.24" y="2.54" length="middle" direction="pwr"/>
+<pin name="GND@2" x="15.24" y="0" length="middle" direction="pwr"/>
+<pin name="+3V3@1" x="15.24" y="7.62" length="middle" direction="pwr"/>
+<pin name="+3V3@2" x="15.24" y="5.08" length="middle" direction="pwr"/>
+<pin name="+12V@1" x="15.24" y="12.7" length="middle" direction="pwr"/>
+<pin name="+12V@2" x="15.24" y="10.16" length="middle" direction="pwr"/>
+</symbol>
+<symbol name="MCB_ANALOG">
+<wire x1="0" y1="15.24" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="20.32" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-2.54" x2="20.32" y2="15.24" width="0.254" layer="94"/>
+<wire x1="20.32" y1="15.24" x2="0" y2="15.24" width="0.254" layer="94"/>
+<text x="0" y="-4.572" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="17.78" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="15.748" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="AIN-A0" x="-5.08" y="12.7" length="middle" direction="in"/>
+<pin name="AIN-A1" x="-5.08" y="10.16" length="middle" direction="in"/>
+<pin name="AIN-A2" x="-5.08" y="7.62" length="middle" direction="in"/>
+<pin name="AIN-A3" x="-5.08" y="5.08" length="middle" direction="in"/>
+<pin name="AIN-A4" x="-5.08" y="2.54" length="middle" direction="in"/>
+<pin name="AIN-A5" x="-5.08" y="0" length="middle" direction="in"/>
+</symbol>
+<symbol name="MCB_GPIO">
+<wire x1="0" y1="25.4" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="20.32" y2="0" width="0.254" layer="94"/>
+<wire x1="20.32" y1="0" x2="20.32" y2="25.4" width="0.254" layer="94"/>
+<wire x1="20.32" y1="25.4" x2="0" y2="25.4" width="0.254" layer="94"/>
+<text x="0" y="-2.032" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="27.94" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="25.908" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="GPIO43" x="-5.08" y="22.86" length="middle"/>
+<pin name="GPIO23" x="-5.08" y="17.78" length="middle"/>
+<pin name="GPIO27" x="-5.08" y="15.24" length="middle"/>
+<pin name="GPIO26" x="-5.08" y="12.7" length="middle"/>
+<pin name="GPIO18" x="-5.08" y="10.16" length="middle"/>
+<pin name="GPIO8" x="-5.08" y="7.62" length="middle"/>
+<pin name="GPIO25" x="-5.08" y="5.08" length="middle"/>
+<pin name="GPIO6" x="-5.08" y="2.54" length="middle"/>
+<pin name="GPIO42" x="-5.08" y="20.32" length="middle"/>
+</symbol>
+<symbol name="MCB_I2C">
+<wire x1="0" y1="5.08" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="12.7" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="12.7" y1="-2.54" x2="12.7" y2="5.08" width="0.254" layer="94"/>
+<wire x1="12.7" y1="5.08" x2="0" y2="5.08" width="0.254" layer="94"/>
+<text x="0" y="-4.572" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="7.62" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="5.588" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="SDA" x="-5.08" y="2.54" length="middle"/>
+<pin name="SCL" x="-5.08" y="0" length="middle"/>
+</symbol>
+<symbol name="MCB_SPI">
+<wire x1="0" y1="10.16" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="20.32" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-2.54" x2="20.32" y2="10.16" width="0.254" layer="94"/>
+<wire x1="20.32" y1="10.16" x2="0" y2="10.16" width="0.254" layer="94"/>
+<text x="0" y="-4.572" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="12.7" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="10.668" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="SPICLK" x="-5.08" y="7.62" length="middle" direction="out"/>
+<pin name="SPICS" x="-5.08" y="5.08" length="middle" direction="out"/>
+<pin name="SPISIMO" x="-5.08" y="2.54" length="middle" direction="out"/>
+<pin name="SPISOMI" x="-5.08" y="0" length="middle" direction="in"/>
+</symbol>
+<symbol name="MCB_SERIAL">
+<wire x1="0" y1="5.08" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="20.32" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-2.54" x2="20.32" y2="5.08" width="0.254" layer="94"/>
+<wire x1="20.32" y1="5.08" x2="0" y2="5.08" width="0.254" layer="94"/>
+<text x="0" y="-4.572" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="7.62" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="5.588" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="SERIAL-TX" x="-5.08" y="2.54" length="middle" direction="out"/>
+<pin name="SERIAL-RX" x="-5.08" y="0" length="middle" direction="in"/>
+</symbol>
+<symbol name="MCB_POWER">
+<wire x1="0" y1="17.78" x2="20.32" y2="17.78" width="0.254" layer="94"/>
+<wire x1="20.32" y1="17.78" x2="20.32" y2="0" width="0.254" layer="94"/>
+<wire x1="20.32" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="17.78" width="0.254" layer="94"/>
+<text x="0" y="-2.032" size="1.27" layer="97">MAGIC CAN BACKPACK</text>
+<text x="0" y="20.32" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="18.288" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="GND@1" x="-5.08" y="5.08" length="middle" direction="pwr"/>
+<pin name="GND@2" x="-5.08" y="2.54" length="middle" direction="pwr"/>
+<pin name="+3V3@1" x="-5.08" y="10.16" length="middle" direction="pwr"/>
+<pin name="+3V3@2" x="-5.08" y="7.62" length="middle" direction="pwr"/>
+<pin name="+12V@1" x="-5.08" y="15.24" length="middle" direction="pwr"/>
+<pin name="+12V@2" x="-5.08" y="12.7" length="middle" direction="pwr"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="MAGIC_CAN_BACKPACK" prefix="X">
+<description>Magic CAN Node backpack, current as of 2013-11-16&lt;br&gt;&lt;br&gt;
+
+NOTE: There are other connectors you should be aware of on MCN (especially the two AMPSEAL connectors at the bottom of the board). Be careful of your z-height on the bottom side of the board. Consult MCN schematic when unsure.</description>
+<gates>
+<gate name="G$1" symbol="MCB_ANALOG" x="-43.18" y="20.32"/>
+<gate name="G$2" symbol="MCB_GPIO" x="-43.18" y="-15.24"/>
+<gate name="G$3" symbol="MCB_I2C" x="-43.18" y="-30.48"/>
+<gate name="G$4" symbol="MCB_POWER" x="-5.08" y="17.78"/>
+<gate name="G$5" symbol="MCB_SERIAL" x="-5.08" y="2.54"/>
+<gate name="G$6" symbol="MCB_SPI" x="-5.08" y="-20.32"/>
+</gates>
+<devices>
+<device name="" package="MAGIC_CAN_BACKPACK">
+<connects>
+<connect gate="G$1" pin="AIN-A0" pad="B10"/>
+<connect gate="G$1" pin="AIN-A1" pad="C10"/>
+<connect gate="G$1" pin="AIN-A2" pad="B9"/>
+<connect gate="G$1" pin="AIN-A3" pad="C9"/>
+<connect gate="G$1" pin="AIN-A4" pad="B8"/>
+<connect gate="G$1" pin="AIN-A5" pad="C8"/>
+<connect gate="G$2" pin="GPIO18" pad="A6"/>
+<connect gate="G$2" pin="GPIO23" pad="B5"/>
+<connect gate="G$2" pin="GPIO25" pad="A4"/>
+<connect gate="G$2" pin="GPIO26" pad="A8"/>
+<connect gate="G$2" pin="GPIO27" pad="A9"/>
+<connect gate="G$2" pin="GPIO42" pad="C6"/>
+<connect gate="G$2" pin="GPIO43" pad="B6"/>
+<connect gate="G$2" pin="GPIO6" pad="A1"/>
+<connect gate="G$2" pin="GPIO8" pad="A5"/>
+<connect gate="G$3" pin="SCL" pad="C5"/>
+<connect gate="G$3" pin="SDA" pad="B4"/>
+<connect gate="G$4" pin="+12V@1" pad="B1"/>
+<connect gate="G$4" pin="+12V@2" pad="C1"/>
+<connect gate="G$4" pin="+3V3@1" pad="A7"/>
+<connect gate="G$4" pin="+3V3@2" pad="C2"/>
+<connect gate="G$4" pin="GND@1" pad="A10"/>
+<connect gate="G$4" pin="GND@2" pad="C7"/>
+<connect gate="G$5" pin="SERIAL-RX" pad="A2"/>
+<connect gate="G$5" pin="SERIAL-TX" pad="A3"/>
+<connect gate="G$6" pin="SPICLK" pad="B3"/>
+<connect gate="G$6" pin="SPICS" pad="B2"/>
+<connect gate="G$6" pin="SPISIMO" pad="C4"/>
+<connect gate="G$6" pin="SPISOMI" pad="C3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+</drawing>
+</eagle>
