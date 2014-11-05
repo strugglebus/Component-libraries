@@ -3,10 +3,10 @@
 # Aaron's keybindings
 # 2013-12-31
 
-Assign M1 'LAYER Bottom';
-Assign M2 'LAYER Route2';
-Assign M3 'LAYER Route15';
-Assign M4 'LAYER Top';
+# Assign M1 'LAYER Bottom';
+# Assign M2 'LAYER Route2';
+# Assign M3 'LAYER Route15';
+# Assign M4 'LAYER Top';
 
 Assign F3 'DISPLAY Top tPlace tDocu tOrigins tValues tNames Route2 Route15 -Bottom -bPlace -bDocu -bOrigins -BNames -bValues -bKeepout';
 Assign SF3 'DISPLAY -Top -tPlace -tDocu -tOrigins -tValues -tNames -tKeepout Route2 Route15 Bottom bPlace bDocu bOrigins BNames bValues';
