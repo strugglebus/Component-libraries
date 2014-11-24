@@ -36,6 +36,7 @@ GRM31CR61A476ME15L	Murata	DK	490-5528-1-ND	"Capacitor, Ceramic, 47 uF, 10V, X5R,
 C1608C0G1H471J080AA	TDK	DK	445-1289-1-ND	"Capacitor, Ceramic, 470pF 50V, NP0, 0603"	Capacitor	5%	50V	603	470 pF
 SV09AC105KAR	AVX	DK	478-4051-ND	"Capacitor, Ceramic, 1uF, 1000V, X7R, radial"	Capacitor	10%	1000V	Radial	1 uF
 UUD1A102MNL1GS	NICHICON	NW	58R3386	"Capacitor, Alum Elec, 1000 uF, 10V, 20%, SMD"	Capacitor	20%	10V	"Radial Can, SMD"	1000 uF
+ECA-1JM221	Panasonic	NW	96K9194	"CAPACITOR ALUM ELEC, 220UF, 63V, 20%, radial"	Capacitor	20%	63V	Radial	220 uF
 C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 0603"	Capacitor	+-.5pf	50V	603	8pF
 1734035-2	TE Connectivity	DK	A31727CT-ND	"Connector, USB, MiniB. SMT RT"	Connector	*	*	*	*
 39502-1002	Molex	NW	03N5770	"Eurostyle Terminal Block, 2ckt, horizontal/RA, rct"	Connector	*	*	*	*
@@ -67,6 +68,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 502351-0200	Molex	NW	08R4872	"Dura-Clik receptacle (plug), 2pos"	Connector	*	*	*	*
 502352-0200	Molex	DK	WM7169CT-ND	"Molex Dura-Clik Header, 2pos, RA, SMT"	Connector	*	*	*	*
 56134-9000	Molex	DK	WM3454CT-ND	"MicroClas terminal, 22-28awg, tin"	Connector	*	*	*	*
+55959-2630	Molex	NW	95M2858	"2.00mm Pitch MicroClasp™ Wire-to-Board Header, Dual Row, Right Angle, 26 Circuits"	Connector*		*	*	*
 502352-0800	Molex	DK	WM7175CT-ND	"Molex Dura-Clik Header, 8pos, RA, SMT"	Connector	*	*	*	*
 39502-1004	Molex	DK	WM7772-ND	"Molex Eurostyle Header, 4pos, RA, Through-Hole"	Connector	*	*	*	*
 39502-1006	Molex	DK	WM7774-ND	"Molex Eurostyle Header, 6pos, RA, Through-Hole"	Connector	*	*	*	*
@@ -99,6 +101,7 @@ BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, V
 BZX84C5V1TS-7-F	Diodes Inc	DK	BZX84C5V1TS-FDICT-ND	"Diode array, Zener, 5.1 V, 3 discrete diodes, 200 mW, SOT-363"	Diode	*	5.1 V	SOD-323	5.1 V
 MMSZ5226BS-7-F	Diodes Inc	DK	MMSZ5226BS-FDICT-ND	"Diode, Zener, 3.3V 200mW, SOD-323"	Diode	*	3.3V	SOD-323	3.3V
 MM3Z16VT1G	ON Semiconductor	DK	MM3Z16VT1GOSCT-ND	"Diode, Zener, 16V, 200 mW, SOD-323"	Diode	*	16 V	SOD-323	16 V
+1N5355BRLG	ON Semiconductor	DK	1N5355BRLGOSCT-ND	diode zener 18v 5w axial	Diode	*	18V	*	*
 B130-13-F	Diodes Inc	DK	B130-FDICT-ND	"Schottky rectifier, 30V, 1A, SMA"	Diode	*	30 V	SMA	*
 MM3Z5V1T1G	Diodes Inc	NW	67H6879	"Zener diode, 200 mW, 5.1V, SOD-123"	Diode	*	5.1 V	SOD-323	5.1 V
 MMSZ5231B	Fairchild Semiconductor	NW	58K1909	"Zener Diode, 5.1 V, 500 mW, SOD-123"	Diode	*	5.1V	SOD-123	5.1V
@@ -110,6 +113,7 @@ AZ23C3V3-7-F	Diodes Inc	DK	AZ23C3V3-FDICT-ND	"Diode, Zener, Dual CA, 3.3V SOT23"
 46-101 RED	Grayhill	NW	58M3272	"Switch, Pushbutton, SPDT, 250mA, 220V, Red"	Electromechanical	*	*	*	*
 3003	Keystone	NW	66F5625	"Battery Clip, 20mm Coin Cell, Through Hole"	Electromechanical	*	*	*	*
 0485.500DR	Littlefuse	DK	F5920CT-ND	"Fuse, SMT, 500mA, 600VDC"	Fuse	*	*	2-SMD	*
+C1Q 500	Bel Fuse	DK	507-1075-6-ND	FUSE BRD MNT 500MA 125VAC 63VDC	Fuse	*	"125 VAC, 63 VDC"	1206	500mA
 C1Q 750	Bel Fuse	DK	507-1076-1-ND	"SMT Fuse, 750 mA, 125 V, Fast-Blow, 1206, C1Q"	Fuse	*	125 V	1206	750 mA
 56200001009	Littelfuse Wickmann	NW	67K2295	"Fuse holder, TR5, PCB mount"	Fuses and Holders	*	250 V	*	*
 01530008Z	Littlefuse	NW	67K1421	"Miniature Blade Fuse Holder, Vertical, 15A, 32V"	Fuses and Holders	*	32V	*	*
@@ -165,6 +169,7 @@ IRFL024ZPbF	International Rectifier	NW	63J6797	"N-Channel MOSFET, 55V, 5.1A, SOT
 FDT439N	Fairchild Semiconductor	DK	FDT439NCT-ND	"N-Channel MOSFET, 30V, 6.3A, 2.5v logic gate, SOT-223"	MOSFET	*	30 V	SOT-223	6.3A
 FDV301N	Fairchild Semiconductor	NW	58K8856	"N-channel MOSFET, 25V, 220 mA, SOT-23"	MOSFET	*	25V	SOT-23	*
 3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
+3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
 1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*
 ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A
 IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2FormC"	Relay	*	12V	2 form C	*
@@ -207,6 +212,7 @@ ERJ-14YJ470U	Panasonic	NW	53W4126	"Resistor, 47 ohm, 5%, 500 mW, 1210"	Resistor	
 CRCW251247R0FKEG	Vishay Dale	DK	541-47.0AFCT-ND	"Resistor, 47 ohm 500 mW, 1%, 2512, 500 V"	Resistor	1%	500 V	2512	47 ohm
 CRCW1210470RFKEA	Vishay Dale	DK	541-470AACT-ND	"Resistor, 470 ohm, 500 mW, 1%, 1210"	Resistor	1%	*	1210	470 ohm
 ERJ-3EKF5601V	Panasonic	NW	64R5354	"Resistor, 5.6 kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	5.6 kohm
+MOR03SJ0100A19	Multicomp	NW	74M3341	"Resistor, 10 ohm, 3W, 5%, "	Resistor	5%	350V	*	10 ohm 
 CRCW04025K62FKED	Vishay Dale	DK	541-5.62KLCT-ND	"Resistor, 5.62k ohm, 1/16W, 1%, 100ppm, 0402"	Resistor	1%	*	402	5.62k ohm
 RC0402FR-07510KL	Yageo	DK	311-510KLRCT-ND	RES 510K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	510 kohm
 CRCW0603510KFKEA	Vishay Dale	NW	52K8595	"Resistor, 510k ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	510k ohm
