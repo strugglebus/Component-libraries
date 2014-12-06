@@ -80,6 +80,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 51353-2000	Molex	DK	WM3363-ND	"MicroClasp plug, 20pos, dual row"	Connector	*	*	*	*
 55959-3830	Molex	Arrow	559593830	"Micro-Clasp header, 38pos, 2 row, through hole"	Connector	*	*	*	*
 55959-2030	Molex	NW	09J7572	"Micro-Clasp header, 20pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
+55959-1030	Molex	DK	WM7595-ND	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
 6-534237-8	TE Connectivity	DK	A32916-ND	"Header, Female socket, .1"", 1-row, 20-pos"	Connector	*	*	*	*
 534237-4	TE Connectivity	DK	A26418-ND	"Header, Female socket, .1"", 1-row, 6-pos"	Connector	*	*	*	*
 2213S-20G	Multicomp	NW	08N6794	"""Header, Male pin, 0.1"""", 20 pos, 2 rows"""	Connector	*	*	*	*
