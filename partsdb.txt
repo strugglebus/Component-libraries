@@ -80,6 +80,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 51353-2000	Molex	DK	WM3363-ND	"MicroClasp plug, 20pos, dual row"	Connector	*	*	*	*
 55959-3830	Molex	Arrow	559593830	"Micro-Clasp header, 38pos, 2 row, through hole"	Connector	*	*	*	*
 55959-2030	Molex	NW	09J7572	"Micro-Clasp header, 20pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
+55959-1030	Molex	DK	WM7595-ND	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*
 6-534237-8	TE Connectivity	DK	A32916-ND	"Header, Female socket, .1"", 1-row, 20-pos"	Connector	*	*	*	*
 534237-4	TE Connectivity	DK	A26418-ND	"Header, Female socket, .1"", 1-row, 6-pos"	Connector	*	*	*	*
 2213S-20G	Multicomp	NW	08N6794	"""Header, Male pin, 0.1"""", 20 pos, 2 rows"""	Connector	*	*	*	*
@@ -177,6 +178,7 @@ IRFL024ZPbF	International Rectifier	NW	63J6797	"N-Channel MOSFET, 55V, 5.1A, SOT
 FDT439N	Fairchild Semiconductor	DK	FDT439NCT-ND	"N-Channel MOSFET, 30V, 6.3A, 2.5v logic gate, SOT-223"	MOSFET	*	30 V	SOT-223	6.3A
 FDV301N	Fairchild Semiconductor	NW	58K8856	"N-channel MOSFET, 25V, 220 mA, SOT-23"	MOSFET	*	25V	SOT-23	*
 3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
+MF-FSMF050X-2	Bourns Inc	NW	87W5964	"Fuse, Resettable PTC, 6V, 500mA, 0603"	PTC	*	6V	603	500mA
 1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*
 ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A
 IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2FormC"	Relay	*	12V	2 form C	*
