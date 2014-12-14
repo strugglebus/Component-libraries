@@ -22,7 +22,7 @@ eagle.epf
 *.sts
 *.crc
 *.crs
-
+*.cfg
 *.dri
 *.drl
 *.gpi
