@@ -21,7 +21,7 @@ C4532Y5V1A107Z	TDK	NW	90R7861	"Capacitor, Ceramic, 100 uF 10V, +80%/-20%, 1812, 
 107CKE035M	Illinois Capacitor	NW	69K7903	"Capacitor, Alum elec, 100 uF 35V, 20%, Radial 6.3mm Dia"	Capacitor	20%	35V	"E2,5-7"	100 uF
 GRM188R61E225KA12D	Murata	NW	13T1193	"Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R"	Capacitor	10%	25V	603	2.2 uF
 UMK316F225ZG-T	Taiyo Yuden	NW	08P5201	"*NOT NORMALLY STOCKED Capacitor, Ceramic, 2.2 uF 50V, +80%/-20%, 1206, Y5V"	Capacitor	*	50V	1206	2.2 uF
-GRM21BR60J226ME39L	Murata	NW	24R6338	"Capacitor, Ceramic, 22 uF, 6.3V, X5R, 20%, 0805"	Capacitor	20%	6.3V	0805	22 uF
+GRM21BR60J226ME39L	Murata	NW	24R6338	"Capacitor, Ceramic, 22 uF, 6.3V, X5R, 20%, 0805"	Capacitor	20%	6.3V	805	22 uF
 JMK316F226ZL-T	Taiyo Yuden	NW	84R9730	"Capacitor, Ceramic, 22 uF, 6.3V, Y5V, +80%/-20%, 1206"	Capacitor	*	6.3V	1206	22 uF
 GRM32ER61E226ME15L	Murata	NW	24R6350	"Capacitor, Ceramic Multilayer, 22 uF 25V, 20%, 1210, X5R"	Capacitor	20%	25V	1210	22 uF
 08051C332KAT2A	AVX	NW	96M1364	"Capacitor, Ceramic, 3.3 nF 100V, 10%, 0805, X7R"	Capacitor	10%	100V	805	3.3 nF
@@ -31,7 +31,7 @@ MCGPR25V337M8X14	Multicomp	NW	97M4092	"Capacitor, Alum Elec, 330 uF 25V, 20%, Ra
 TR8M475M016C4000	Vishay-Sprague	DK	718-1676-1-ND	"Capacitor, Tantalum, 4.7uF 16V ,0603"	Capacitor	20%	16V	603	4.7 uF
 MC0805X475K250CT	Multicomp	NW	06R4181	"Capacitor, Ceramic, 4.7 uF 25V, 10%, X5R, 0805"	Capacitor	10%	25V	805	4.7 uF
 MC1206F475Z160CT	Multicomp	NW	06R4387	"Capacitor, Ceramic, 4.7 uF 16V, +80%/-20%, 1206, Y5V"	Capacitor	*	16V	1206	4.7 uF
-MC0603B472J500CT	Multicomp	NW	90W2841	"CAP, MLCC, 4.7NF, 50V, X7R, 0603"	Capacitor	5%	50V	0603	4700 pF
+MC0603B472J500CT	Multicomp	NW	90W2841	"CAP, MLCC, 4.7NF, 50V, X7R, 0603"	Capacitor	5%	50V	603	4700 pF
 GRM31CR61A476ME15L	Murata	DK	490-5528-1-ND	"Capacitor, Ceramic, 47 uF, 10V, X5R, 20%, 1206"	Capacitor	20%	10V	1206	47 uF
 C1608C0G1H471J080AA	TDK	DK	445-1289-1-ND	"Capacitor, Ceramic, 470pF 50V, NP0, 0603"	Capacitor	5%	50V	603	470 pF
 SV09AC105KAR	AVX	DK	478-4051-ND	"Capacitor, Ceramic, 1uF, 1000V, X7R, radial"	Capacitor	10%	1000V	Radial	1 uF
@@ -157,7 +157,7 @@ LTST-C930KRKT	Lite-On	DK	160-1463-1-ND	"LED, Red, Clear Domed, 850mcd, 1209"	LED
 598-8120-107F	Dialight	NW	87M9430	"LED, Red Orange, 150 mcd, 625 nm, 0805"	LED	*	*	805	Red Orange (625 nm)
 SML-LX0603YW-TR	Lumex	NW	75K1443	"LED, Yellow, 0603, 14mcd"	LED	*	*	603	YELLOW
 LTST-C930KSKT	Lite-On	DK	160-1464-1-ND	"LED, Yellow, Clear Domed, 800mcd, 1209"	LED	*	*	1209	YELLOW
-SMS1105PGC	Bivar	NW	73R3983	"LED, right-angle, Green, 800 mcd, 3.3V, 0603"	LED	*	*	0603	Green
+SMS1105PGC	Bivar	NW	73R3983	"LED, right-angle, Green, 800 mcd, 3.3V, 0603"	LED	*	*	603	Green
 SMP4-RGY	Bivar Inc	DK	492-1226-1-ND	"LED, Tri-Color, Red, Yellow, Green, "	LED	*	*	PLCC-4	RYG
 MCP1825T-3302E/DC	Microchip	DK	MCP1825T-3302E/DC	"LDO, 3.3V, 500 mA, SOT-223-5"	Linear Regulator	*	3.3V	SOT-223-5	3.3V
 MIC5205-3.3YM5 TR	Micrel	DK	576-1259-1-ND	"LDO, 3.3V 150mA, SOT-23-5"	Linear Regulator	*	*	SOT-23	3.3V
@@ -168,7 +168,6 @@ IRF9410PBF	International Rectifier	NW	19K8340	"N CHANNEL MOSFET, 30V, 7A, SOIC"	
 IRFL024ZPbF	International Rectifier	NW	63J6797	"N-Channel MOSFET, 55V, 5.1A, SOT-223"	MOSFET	*	55V	SOT-223	5.1A
 FDT439N	Fairchild Semiconductor	DK	FDT439NCT-ND	"N-Channel MOSFET, 30V, 6.3A, 2.5v logic gate, SOT-223"	MOSFET	*	30 V	SOT-223	6.3A
 FDV301N	Fairchild Semiconductor	NW	58K8856	"N-channel MOSFET, 25V, 220 mA, SOT-23"	MOSFET	*	25V	SOT-23	*
-3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
 3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*
 1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*
 ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A
@@ -183,7 +182,7 @@ RC0603JR-071K5L	Yageo	NW	68R0139	"Resistor, 1.5k ohm, 100 mW, 5%, Thick Film, 10
 ERJ-6GEYJ152V	Panasonic	NW	65T8789	"Resistor, 1.5k ohm 125 mW, 5%, Thick Film, 200ppm, 0805"	Resistor	5%	150V	805	1.5k ohm
 RC0402FR-071K82L	Yageo	DK	311-1.82KLRCT-ND	RES 1.82K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	1.82k ohm
 CRCW06031K82FKEA	Vishay Dale	DK	541-1.82KHCT-ND	"Resistor, 1.82k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.82k ohm
-RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	0402	100 ohm
+RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	402	100 ohm
 MC0603WGF1000T5E-TC	Multicomp	NW	58K4446	"Resistor, 100 ohm 63 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100 ohm
 RC0603FR-07100KL	Yageo	NW	98K7340	"Resistor, 100k ohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100k ohm
 ERJ-2RKF1002X	Panasonic	DK	P10.0KLCT-ND	"Resistor, 10 kohm, 100 mW, 1%, 0402"	Resistor	1%	*	402	10 kohm
@@ -200,7 +199,7 @@ RC0603FR-102K2L	Yageo	NW	68R0123	"Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 06
 CRCW06032M00FKEA	Vishay Dale	NW	52K8249	"Resistor, 2 M ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	2M ohm
 RC0603FR-073K24L	Yageo	DK	311-3.24KHRCT-ND	"Resistor, 3.24k ohm, 1%, 100 mW, Thick Film 0603"	Resistor	1%	*	603	3.24k ohm
 CRCW08053R30FNEA	Vishay Dale	NW	89M6813	"Resistor, 3.3 ohm, Thick Film, 125 mW, 1%, 200ppm, 0806"	Resistor	1%	*	805	3.3 ohm
-RR0510P-3321-D	Susumu	DK	RR05P3.32KDCT-ND	"Resistor, 3.32 kohm, Thin Film, 0.5%, 0402"	Resistor	0.5%	*	0402	3.32 kohm
+RR0510P-3321-D	Susumu	DK	RR05P3.32KDCT-ND	"Resistor, 3.32 kohm, Thin Film, 0.5%, 0402"	Resistor	0.50%	*	402	3.32 kohm
 RC0603FR-073R92L	Yageo	DK	311-3.92HRCT-ND	"Resistor, 3.92 ohm, 0.1W, 1%, 200ppm, 0603"	Resistor	1%	*	603	3.92 ohm
 ERJ-3GEYJ301V	Panasonic	DK	P300GCT-ND	"Resistor, 300 ohm, 5% 0603"	Resistor	5%	*	603	300 ohm
 RC0603FR-0730KL	Yageo	DK	311-30.0KHRCT-ND	"Resistor, 30k ohm, 100 mW, 1%, 100ppm, Thick Film 0603"	Resistor	1%	*	603	30k ohm
@@ -213,6 +212,7 @@ CRCW251247R0FKEG	Vishay Dale	DK	541-47.0AFCT-ND	"Resistor, 47 ohm 500 mW, 1%, 25
 CRCW1210470RFKEA	Vishay Dale	DK	541-470AACT-ND	"Resistor, 470 ohm, 500 mW, 1%, 1210"	Resistor	1%	*	1210	470 ohm
 ERJ-3EKF5601V	Panasonic	NW	64R5354	"Resistor, 5.6 kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	5.6 kohm
 MOR03SJ0100A19	Multicomp	NW	74M3341	"Resistor, 10 ohm, 3W, 5%, "	Resistor	5%	350V	*	10 ohm 
+ERJ-6ENF1001V	Panasonic	NW	64R5369	"RESISTOR, THICK FILM, 1KOHM, 125mW, 1%"	Resistor	1%	*	603	1k ohm
 CRCW04025K62FKED	Vishay Dale	DK	541-5.62KLCT-ND	"Resistor, 5.62k ohm, 1/16W, 1%, 100ppm, 0402"	Resistor	1%	*	402	5.62k ohm
 RC0402FR-07510KL	Yageo	DK	311-510KLRCT-ND	RES 510K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	510 kohm
 CRCW0603510KFKEA	Vishay Dale	NW	52K8595	"Resistor, 510k ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	510k ohm
@@ -221,12 +221,12 @@ ERJ-3EKF6192V	Panasonic	NW	65T8501	"Resistor, Thick Film 61.9k, 100 mW, 1%, 0603
 ERJ-3GEYJ683V	Panasonic	NW	65T8681	"Resistor, 68k ohm, 0.1W, 5%, 0603 "	Resistor	5%	150V	603	68 kohm
 ERJ-6GEYJ681V	Panasonic	NW	65T8839	"Resistor, 680 ohm, 0.125W, 5%, 0805"	Resistor	5%	*	805	680 ohm
 RC0603FR-077K5L	Yageo	NW	68R0113	"Resistor, 7.5k ohm 100 mW, 1%, 100ppm, 0603"	Resistor	1%	50V	603	7.5k ohm
-CRCW080560R4FKEA	VISHAY DALE	NW	53K0403	"RESISTOR, THICK FILM, 60.4 OHM, 125mW, 1%"	Resistor	1%	150V	0805	60.4 Ohm
+CRCW080560R4FKEA	VISHAY DALE	NW	53K0403	"RESISTOR, THICK FILM, 60.4 OHM, 125mW, 1%"	Resistor	1%	150V	805	60.4 Ohm
 ERJ-6GEYJ820V	Panasonic	NW	53W4971	"Resistor, 82 ohm, 125 mW, 5%, 0805"	Resistor	5%	150 V	805	82 ohm
 RR1220P-9761-D-M	Susumu	DK	RR12P9.76KDCT-ND	"Resistor, 9.76k ohm, 0.1%, 25ppm, Thin Film 0805"	Resistor	0.10%	100V	805	9.76k ohm
 RC0402JR-071ML	Yageo	NW	68R2089	"RESISTOR, THICK FILM, 1MOHM, 62.5mW, 5%"	Resistor	5%	*	402	1M ohm
 CRCW04022M00FKED	Vishay Dale	DK	541-2.00MLCT-ND	RES 2.00M OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	2 M ohm
-ERT-J1VG103FA	Panasonic	NW	55T6142	"Thermistor, NTC, 10 kohm, 1%, SMD, 0603, b = 3375 K"	Thermistor	1%	*	0603	10 kohm
+ERT-J1VG103FA	Panasonic	NW	55T6142	"Thermistor, NTC, 10 kohm, 1%, SMD, 0603, b = 3375 K"	Thermistor	1%	*	603	10 kohm
 FSM1LPATR	TE Connectivity	DK	450-1760-1-ND	"Tactile switch, SPST-NO, 0.05A, 12V"	Switch	*	12V	*	*
 RS-187R05A2-DS MT RT	C&K Components	DK	CKN10361CT-ND	"Switch, Tactile, 5.2x5.2mm SMD"	Switch	*	*	*	*
 B32-1060	Omron	NW	89C4238	"Keycap, for B3F and B3W series switches, white"	Switch	*	*	*	*
