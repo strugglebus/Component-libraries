@@ -1,4 +1,4 @@
-Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value
+Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value	Cost	Category
 AI-1223-TWT-12V-R	"PUI Audio, Inc."	DK	668-1018-ND	"Buzzer, Magnetic, 12mm dia x 9.7mm, 12VDC"	Buzzer	*	12V	F/TMB	*
 04025A330JAT2A	AVX	DK	478-1076-1-ND	"Capacitor, 33 pF, 50V, 5%, NP0, 0402"	Capacitor	5%	50V	402	33 pF
 GRM216R71H103KA01D	Murata	DK	490-1664-1-ND	"Capacitor, 0.01 uF 50V, 10%, X7R, 0805"	Capacitor	10%	50V	805	0.01 uF
@@ -198,7 +198,7 @@ RC0402FR-071K82L	Yageo	DK	311-1.82KLRCT-ND	RES 1.82K OHM 1/16W 1% 0402 SMD	Resis
 CRCW06031K82FKEA	Vishay Dale	DK	541-1.82KHCT-ND	"Resistor, 1.82k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.82k ohm
 RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	402	100 ohm
 MC0603WGF1000T5E-TC	Multicomp	NW	58K4446	"*** DISCONTINUED - DO NOT USE *** Resistor, 100 ohm 63 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100 ohm
-RC0603JR-131KL	Yageo	NW	68R0220	Resistor, 1k ohm, 100 mW, 5%, Thick Film 0603	Resistor	5%	50V	603	1k ohm
+RC0603JR-131KL	Yageo	NW	68R0220	Resistor, 1k ohm, 100 mW, 5%, Thick Film 0603	Resistor	5%	50V	603	1k ohm	0.007	Passives
 RC0603FR-07100KL	Yageo	NW	98K7340	"Resistor, 100k ohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100k ohm
 ERJ-2RKF1002X	Panasonic	DK	P10.0KLCT-ND	"Resistor, 10 kohm, 100 mW, 1%, 0402"	Resistor	1%	*	402	10 kohm
 RC0603JR-1010KL	Yageo	NW	68R0215	"Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603"	Resistor	5%	50V	603	10k ohm
