@@ -26,8 +26,10 @@ JMK316F226ZL-T	Taiyo Yuden	NW	84R9730	"Capacitor, Ceramic, 22 uF, 6.3V, Y5V, +80
 GRM32ER61E226ME15L	Murata	NW	24R6350	"Capacitor, Ceramic Multilayer, 22 uF 25V, 20%, 1210, X5R"	Capacitor	20%	25V	1210	22 uF
 08051C332KAT2A	AVX	NW	96M1364	"Capacitor, Ceramic, 3.3 nF 100V, 10%, 0805, X7R"	Capacitor	10%	100V	805	3.3 nF
 C0603C330J5GACTU	Kemet	NW	64K2857	"Capacitor, Ceramic, 33 pF, 50V, C0G, 5%, 0603"	Capacitor	5%	50V	603	33 pF
+06035C333KAT2A	AVX	NW	66H6168	"Capacitor, Ceramic, 33 nF, 50V, X7R, 10%"	Capacitor	10%	50V	0603	33 nF	0.018	Passive
 08051A330JAT2A	AVX	NW	96K4771	"Capacitor, Ceramic, 33 pF 100V, 5%, 0805 C0G"	Capacitor	5%	100V	805	33 pF
 MCGPR25V337M8X14	Multicomp	NW	97M4092	"Capacitor, Alum Elec, 330 uF 25V, 20%, Radial 8mm Dia"	Capacitor	20%	25V	"E3,5-8"	330 uF
+GRM188R71H472KA01D	Murata	NW	38K1673	"Capacitor, Ceramic, 4.7 nF, 50V, X7R, 10%, 0603"	Capacitor	10%	50V	0603	4.7 nF	0.006	Passives
 CGB3B1X5R1A475M055AC	TDK	NW	04X3171	"CAP CERAMIC, 4.7UF, 10V, X5R, 0603"	Capacitor	20%	10V	0603	4.7 uF
 TR8M475M016C4000	Vishay-Sprague	DK	718-1676-1-ND	"Capacitor, Tantalum, 4.7uF 16V ,0603"	Capacitor	20%	16V	603	4.7 uF
 MC0805X475K250CT	Multicomp	NW	06R4181	"Capacitor, Ceramic, 4.7 uF 25V, 10%, X5R, 0805"	Capacitor	10%	25V	805	4.7 uF	0.037	Passives
@@ -238,6 +240,7 @@ ERJ-3GEYJ683V	Panasonic	NW	65T8681	"Resistor, 68k ohm, 0.1W, 5%, 0603 "	Resistor
 ERJ-6GEYJ681V	Panasonic	NW	65T8839	"Resistor, 680 ohm, 0.125W, 5%, 0805"	Resistor	5%	*	805	680 ohm
 RC0603FR-077K5L	Yageo	NW	68R0113	"Resistor, 7.5k ohm 100 mW, 1%, 100ppm, 0603"	Resistor	1%	50V	603	7.5k ohm
 CRCW080560R4FKEA	VISHAY DALE	NW	53K0403	"RESISTOR, THICK FILM, 60.4 OHM, 125mW, 1%"	Resistor	1%	150V	805	60.4 Ohm
+ERJ-3EKF60R4V	Panasonic	NW	65T8495	"Resistor, 60.4 ohm, 100 mW, 1%, 0603"	Resistor	1%	50 V	0603	60.4 ohm	0.096	Passives
 ERJ-6GEYJ820V	Panasonic	NW	53W4971	"Resistor, 82 ohm, 125 mW, 5%, 0805"	Resistor	5%	150 V	805	82 ohm	0.096	Passives
 RR1220P-9761-D-M	Susumu	DK	RR12P9.76KDCT-ND	"Resistor, 9.76k ohm, 0.1%, 25ppm, Thin Film 0805"	Resistor	0.10%	100V	805	9.76k ohm
 RC0402JR-071ML	Yageo	NW	68R2089	"RESISTOR, THICK FILM, 1MOHM, 62.5mW, 5%"	Resistor	5%	*	402	1M ohm
