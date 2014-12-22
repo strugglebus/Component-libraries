@@ -53,7 +53,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 67996-114HLF	FCI	NW	30M1973	"""0.1"""" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"""	Connector	*	*	*	*
 5002	Keystone	DK	5002K-ND	"""Miniature Test Point, White, 0.04"""" Mounting Dia,"""	Connector	*	*	*	*
 43045-0621	Molex	DK	WM2674-ND	"Micro-Fit header, 6pos, RA, through-hole, with metal retaining clip"	Connector	*	*	*	*
-43045-0609	Molex	NW	71H3391	"Micro-Fit header, 6pos, RA, SMD, with solder tabs"	Connector	*	*	*	*
+43045-0609	Molex	DK	WM1827CT-ND	"Micro-Fit header, 6pos, RA, SMD, with solder tabs"	Connector	*	*	*	*	3.20	Connectors
 43045-0606	Molex	NW	92M1174	"*** NOT STOCKED - AVOID *** Micro-Fit header, 6pos, RA, SMD, with metal retaining clip"	Connector	*	*	*	*
 43045-0406	Molex	NW	56H9461	"Micro-Fit header, 4pos, RA, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*
 87438-0342	Molex	NW	94M1089	"Pico-Spox header, 3pos, RA, SMT"	Connector	*	*	*	*
