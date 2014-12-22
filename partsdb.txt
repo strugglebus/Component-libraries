@@ -205,7 +205,7 @@ RC0603JR-131KL	Yageo	NW	68R0220	Resistor, 1k ohm, 100 mW, 5%, Thick Film 0603	Re
 RC0603FR-07100KL	Yageo	NW	98K7340	"Resistor, 100k ohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100k ohm
 ERJ-2RKF1002X	Panasonic	DK	P10.0KLCT-ND	"Resistor, 10 kohm, 100 mW, 1%, 0402"	Resistor	1%	*	402	10 kohm
 RC0603JR-1010KL	Yageo	NW	68R0215	"Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603"	Resistor	5%	50V	603	10k ohm
-RC0603FR-0720KL	Vishay Dale	NW	26R4043	"Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603"	Resistor	1%	75V	603	10k ohm
+RC0603FR-0720KL	Vishay Dale	NW	68R0068	"Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603"	Resistor	1%	75V	603	20k ohm	0.017	Passives
 RC0805FR-07120RL	Yageo	DK	311-120CRCT-ND	"Resistor, 120 ohm 125 mW, 5%, Thick Film 0805"	Resistor	5%	*	805	120 ohm
 ERJ-3GEYJ161V	Panasonic	DK	P160GCT-ND	"Resistor, 160 ohm, 5%, 0603"	Resistor	5%	*	603	160 ohm
 CRCW0805169RFKEA	Vishay Dale	NW	52K9913	"Resistor, 169 ohm 125 mW, 1%, 100ppm, Thick Film 0805"	Resistor	1%	150V	805	169 ohm
