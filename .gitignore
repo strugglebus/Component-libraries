@@ -34,6 +34,4 @@ eagle.epf
 *.info
 
 *.eps
-
-# bom-ex configuration file - references configuration on each user’s computer individually
 bom-ex.cfg
