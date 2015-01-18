@@ -1,4 +1,4 @@
-Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value
+Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value	Category	Cost
 AI-1223-TWT-12V-R	"PUI Audio, Inc."	DK	668-1018-ND	"Buzzer, Magnetic, 12mm dia x 9.7mm, 12VDC"	Buzzer	*	12V	F/TMB	*
 04025A330JAT2A	AVX	DK	478-1076-1-ND	"Capacitor, 33 pF, 50V, 5%, NP0, 0402"	Capacitor	5%	50V	402	33 pF
 GRM216R71H103KA01D	Murata	DK	490-1664-1-ND	"Capacitor, 0.01 uF 50V, 10%, X7R, 0805"	Capacitor	10%	50V	805	0.01 uF
@@ -96,6 +96,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 0908-2-15-20-75-14-11-0	Mill-Max	DK	ED90386-ND	"Pin, Spring Loaded, pogo. 7.5mm max height x 1.4mm stroke"	Connector	*	*	*	*
 1217107-1	TE Connectivity	DK	A110905CT-ND	"Quick-connect receptacle, female blade terminal, PCB mount, horizontal"	Connector	*	*	*	*
 R30-1011102	Harwin Inc	DK	952-1486-ND	"Standoff, Hex, M3 x 11mm. (suitable for .1�۝ header board-to-board stack)"	Connector	*	*	*	*
+A-DF-09-A/KG-T4S	Assmann WSW Component	DK	AE10924-ND	D-Sub connector, 9 pos, DE shell size, female, RA, through hole PCB	Connector	*	*	*	*	Connectors	0.78
 ECS-200-8-30B-CKM	ECS Inc	DK	XC1841CT-ND	"Crystal, 20MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	20MHz
 ECS-100-8-30B-CKM	ECS Inc	DK	XC1835CT-ND	"Crystal, 10MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	10MHz
 R-78C3.3-1.0	Recom	DK	945-1394-5-ND	"DC-DC Converter, 1A, 9-42V input, 3.3V output, Non-Isolated, 78xx replacement"	DC/DC	*	3.3V	SIP3	1A
