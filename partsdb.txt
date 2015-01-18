@@ -255,4 +255,5 @@ ADG719BRTZ	Analog Devices	Newark	96K2067	"Analog switch, single, SPDT, SOT-23-6"
 MPU-6000	InvenSense	DK	1428-1005-1-ND	"IC , 6-dof imu QFN24"	"IC, Sensor"	*	3.3v	QFN24	*
 FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	module	*
 43-01169	Conec	DK	626-1497-ND	CONN RCPT PNL MNT 5POS PIN PCB	Connector	*	*	M12	*
+43-01211	Conec	DK	626-1513-ND	M12-5 PCB header, right angle, male pins, shielded	Connector	*	*	M12	*	Connectors	10.63
 42-01146	Conec	*	*	CONN HEADER PNL MNT 8POS PIN PCB	Connector	*	*	M8	*
