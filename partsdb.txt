@@ -109,7 +109,8 @@ R-78C5.0-1.0	Recom	DK	945-1395-5-ND	"DC-DC Converter, 1A, 9-42V input, 5V output
 PTH08T260WAD	Texas Instruments	DK	296-21404-ND	"DC-DC Converter, 3-A, 4.5 to 14V Input, Non-Isolated, Wide Output, Adjustable Power Module"	DC/DC	*	*	*	*
 BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V"	Diode	*	*	SOT-23	*
 BZX84C5V1TS-7-F	Diodes Inc	DK	BZX84C5V1TS-FDICT-ND	"Diode array, Zener, 5.1 V, 3 discrete diodes, 200 mW, SOT-363"	Diode	*	5.1 V	SOD-323	5.1 V
-MMSZ5226BS-7-F	Diodes Inc	DK	MMSZ5226BS-FDICT-ND	"Diode, Zener, 3.3V 200mW, SOD-323"	Diode	*	3.3V	SOD-323	3.3V
+MM3Z3V0T1G	ON Semiconductor	NW	09R9502	Diode, Zener, 3 V, 200 mW, SOD-323	Diode	*	3 V	SOD-323	3 V	0.017	Passives
+MMSZ5226BS-7-F	Diodes Inc	DK	MMSZ5226BS-FDICT-ND	"Diode, Zener, 3.3V 200mW, SOD-323"	Diode	*	3.3V	SOD-323	3.3V	0.258	Passives
 MM3Z16VT1G	ON Semiconductor	DK	MM3Z16VT1GOSCT-ND	"Diode, Zener, 16V, 200 mW, SOD-323"	Diode	*	16 V	SOD-323	16 V
 1N5355BRLG	ON Semiconductor	DK	1N5355BRLGOSCT-ND	diode zener 18v 5w axial	Diode	*	18V	*	*
 B130-13-F	Diodes Inc	DK	B130-FDICT-ND	"Schottky rectifier, 30V, 1A, SMA"	Diode	*	30 V	SMA	*	0.43	Passives
