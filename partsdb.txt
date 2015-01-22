@@ -135,6 +135,7 @@ C1Q 750	Bel Fuse	DK	507-1076-1-ND	"SMT Fuse, 750 mA, 125 V, Fast-Blow, 1206, C1Q
 ADS1100A0IDBVT	Texas Instruments	NW	20H0708	"IC, ADC, 16-bit, self-calibrating, 128sps, SOT-23-6"	"ICs, ADC"	*	*	SOT-23-6	*
 CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPROM, SOIC-8"	"ICs, Memory"	*	*	SOIC-8	*
 ISO1050DUBR	Texas Instruments	NW	14R9899	"IC, CAN TXRX, 1MBPS, 1/1, 5V, SOP-8"	"ICs, Communication"	*	*	SOP-8	*	4.54	ICs
+SN65HVD1050D	Texas Instruments	NW	70K4439	IC, CAN TX/RX, 1 MBps, 5.5V, 8-SOIC"	ICs, Communication	*	*	SOIC-8	*	1.32	ICs
 MCP2515-I/SO	Microchip	DK	MCP2515-I/SO-ND	"IC, CAN Controller. SPI interface, SOIC-18"	"ICs, Communication"	*	*	SOIC-18	*
 FT232RL	FTDI	DK	768-1007-1-ND	"IC, USB Serial, SSOP-28"	"Ics, Communication"	*	*	SSOP-28	*
 SN65HVD230D	Texas Instruments	NW	75C7744	"IC, CAN Transceiver, 3.3V, with Standby, SOIC-8"	"ICs, Communication"	*	*	SOIC-8	*
