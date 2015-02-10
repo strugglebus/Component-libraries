@@ -41,7 +41,7 @@ SV09AC105KAR	AVX	DK	478-4051-ND	"Capacitor, Ceramic, 1uF, 1000V, X7R, radial"	Ca
 UUD1A102MNL1GS	NICHICON	NW	58R3386	"Capacitor, Alum Elec, 1000 uF, 10V, 20%, SMD"	Capacitor	20%	10V	"Radial Can, SMD"	1000 uF
 ECA-1JM221	Panasonic	NW	96K9194	"CAPACITOR ALUM ELEC, 220UF, 63V, 20%, radial"	Capacitor	20%	63V	Radial	220 uF
 C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 0603"	Capacitor	+-.5pf	50V	603	8pF
-1734035-2	TE Connectivity	DK	A31727CT-ND	"Connector, USB, MiniB. SMT RT"	Connector	*	*	*	*
+1734035-2	TE Connectivity	DK	A31727CT-ND	"Connector, USB, MiniB. SMT RT"	Connector	*	*	*	*	0.872	Connectors
 39502-1002	Molex	NW	03N5770	"Eurostyle Terminal Block, 2ckt, horizontal/RA, rct"	Connector	*	*	*	*
 39500-0002	Molex	NW	21M3111	"Eurostyle pluggable screw terminal block, 3.5mm pitch (mates with 39502-1002)"	Connector	*	*	*	*
 50212-8100	Molex	NW	95C1851	"Dura-Clik terminal, 30-24awg, tin, bag"	Connector	*	*	*	*
@@ -133,7 +133,7 @@ C1Q 750	Bel Fuse	DK	507-1076-1-ND	"SMT Fuse, 750 mA, 125 V, Fast-Blow, 1206, C1Q
 56200001009	Littelfuse Wickmann	NW	67K2295	"Fuse holder, TR5, PCB mount"	Fuses and Holders	*	250 V	*	*
 01530008Z	Littlefuse	NW	67K1421	"Miniature Blade Fuse Holder, Vertical, 15A, 32V"	Fuses and Holders	*	32V	*	*
 ADS1100A0IDBVT	Texas Instruments	NW	20H0708	"IC, ADC, 16-bit, self-calibrating, 128sps, SOT-23-6"	"ICs, ADC"	*	*	SOT-23-6	*
-CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPROM, SOIC-8"	"ICs, Memory"	*	*	SOIC-8	*
+CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPROM, SOIC-8"	"ICs, Memory"	*	*	SOIC-8	*	0.803	ICs
 ISO1050DUBR	Texas Instruments	NW	14R9899	"IC, CAN TXRX, 1MBPS, 1/1, 5V, SOP-8"	"ICs, Communication"	*	*	SOP-8	*	4.54	ICs
 SN65HVD1050D	Texas Instruments	NW	70K4439	IC, CAN TX/RX, 1 MBps, 5.5V, 8-SOIC"	ICs, Communication	*	*	SOIC-8	*	1.32	ICs
 MCP2515-I/SO	Microchip	DK	MCP2515-I/SO-ND	"IC, CAN Controller. SPI interface, SOIC-18"	"ICs, Communication"	*	*	SOIC-18	*
