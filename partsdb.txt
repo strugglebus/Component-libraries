@@ -166,6 +166,7 @@ SDR0604-180YL	Bourns	DK	SDR0604-180YLCT-ND	"Inductor, 18 uH, 1.5 A, unshielded, 
 SDR0604-100ML	Bourns	NW	61J8151	"Inductor, power, 10 uH, 2 A, unshielded"	Inductor	20%	*	8012	10 uH
 BKP1608HS600-T	Taiyo Yuden	DK	587-1928-1-ND	"Inductor, Chip, 60ohm, 1.5A, 0603"	Inductor	*	*	603	60 ohm	0.047	Passives
 DR331-513AE	Bourns Inc	DK	DR331-513AECT-ND	** CAUTION - POOR AVAILABILITY ** CHOKE COMMON MODE 51UH 25%	Inductor	*	*	SMD	51 uH	0.86	Passives
+DR331-104AE	Bourns Inc	NW	29T3649	Choke, common mode, 100 uH, 500 mA, 25%	Inductor	*	*	SMD	100 uH	0.32	Passives
 MH1608-221Y	Bourns Inc	DK	MH1608-221YCT-ND	"Inductor, Chip, 220ohm, 0603"	Inductor	*	*	603	220 ohm
 TLHR5400	VISHAY SEMICONDUCTOR	NW	33C1331	"LED, RED, T-1 3/4 (5MM), 10MCD, 625NM"	LED	*	2V	T1-3/4	20mA
 LGQ971	Osram	NW	05M0493	"LED, Green, 0603, 10mcd"	LED	*	*	603	GREEN	0.054	LEDs
