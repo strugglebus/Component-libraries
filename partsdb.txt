@@ -6,6 +6,7 @@ C1608X7R1H473K	TDK	NW	90R7721	"Capacitor, Ceramic, 0.047 uF 50V, 10%, 0603, X7R"
 LMK105BJ104KV-F	Taiyo Yuden	DK	587-1227-1-ND	"Capacitor, Ceramic Multilayer, 0.1 uF 10V, 10%, 0402"	Capacitor	10%	10V	402	0.1 uF		
 C1608X7R1E104K080AA	TDK	DK	445-1316-1-ND	"Capacitor, Ceramic, .1uF 25V 10% 0603 X7R"	Capacitor	10%	25V	603	0.1 uF	0.011	Passives
 CGA3E2X7R1H222K080AA	TDK	DK	445-5660-1-ND	"Capacitor, Ceramic, 2.2nF 50V 10% 0603 X7R"	Capacitor	10%	50V	603	2.2nF		
+GRM188R71H104KA93D	Murata	DK	490-1519-1-ND	"Capacitor, Ceramic, 0.1 uF 50V, 10%, 0603, X7R"	Capacitor	10%	50V	0603	0.1 uF	0.02	Passives
 GRM21BR71H104KA01L	Murata	NW	38K1694	"Capacitor, Ceramic, 0.1 uF 50V, 10%, 0805, X7R"	Capacitor	10%	50V	805	0.1 uF		
 MC0603F105Z100CT	Multicomp	NW	06R5073	"Capacitor, Ceramic, 1 uF 10V, +80%/-20%, 0603, Y5V"	Capacitor	*	10V	603	1 uF		
 C1608X5R1C105K	TDK	NW	90R7675	"Capacitor, Ceramic, 1UF, 16V, X5R, 10%, 0603"	Capacitor	10%	16V	603	1 uF		
