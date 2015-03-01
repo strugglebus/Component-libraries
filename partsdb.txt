@@ -18,7 +18,8 @@ GRM21BR61C106KE15L	Murata	NW	35R0687	"Capacitor, Ceramic, 10 uF 16V, 10%, X5R, 0
 LMK316F106ZL-T	Taiyo Yuden	NW	08P5178	"Capacitor, Ceramic, 10 uF, 10V, Y5V, +80%/-20%, 1206"	Capacitor	*	10V	1206	10 uF		
 GRM31CR6YA106KA12L	Murata	NW	72R4211	"Capacitor, Ceramic, 10UF, 35V, X5R, 10%, 1206"	Capacitor	10%	35V	1206	10 uF	0.355	Passives
 T491A106M020AT	Kemet	DK	399-5152-1-ND	"Capacitor, Tantalum, 10uF 20V ,CT3216"	Capacitor	*	20V	CT3216	10 uF		
-C4532Y5V1A107Z	TDK	NW	90R7861	"Capacitor, Ceramic, 100 uF 10V, +80%/-20%, 1812, Y5V"	Capacitor	*	10V	1812	100 uF		
+C4532Y5V1A107Z	TDK	NW	90R7861	"Capacitor, Ceramic, 100 uF 10V, +80%/-20%, 1812, Y5V"	Capacitor	*	10V	1812	100 uF	
+TAJB107K006RNJ	AVX	NW	60R5877	"Capacitor, Tantalum, 100 uF, 6.3V, 10%, 3528"	Capacitor	6.3V	3528	100 uF	0.633	Passives	
 107CKE035M	Illinois Capacitor	NW	69K7903	"Capacitor, Alum elec, 100 uF 35V, 20%, Radial 6.3mm Dia"	Capacitor	20%	35V	"E2,5-7"	100 uF		
 GRM188R61E225KA12D	Murata	NW	13T1193	"Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R"	Capacitor	10%	25V	603	2.2 uF	0.107	Passives
 UMK316F225ZG-T	Taiyo Yuden	NW	08P5201	"*NOT NORMALLY STOCKED Capacitor, Ceramic, 2.2 uF 50V, +80%/-20%, 1206, Y5V"	Capacitor	*	50V	1206	2.2 uF		
