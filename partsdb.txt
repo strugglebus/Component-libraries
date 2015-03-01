@@ -194,7 +194,8 @@ MF-FSMF050X-2	Bourns Inc	NW	87W5964	"Fuse, Resettable PTC, 6V, 500mA, 0603"	PTC	
 2-1415030-1	TE Connectivity	DK	PB768-ND	Electromechanical Relay 12VDC 400Ohm 15A SPDT (15x15x20)mm THT Power Relay	Relay	*	12V	*	15A	1.94	Electromechanical
 ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A		
 IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2FormC"	Relay	*	12V	2 form C	*		
-MC0805WA00000T5E-TC	Multicomp	NW	58K4927	"Resistor, 0 ohm, Jumper, 100 mW, 0805, 1%"	Resistor	1%	150V	805	0 ohm		
+MC0805WA00000T5E-TC	Multicomp	NW	58K4927	"Resistor, 0 ohm, Jumper, 100 mW, 0805, 1%"	Resistor	1%	150V	805	0 ohm
+ERJ-3EKF2003V		Panasonic	NW	65T8368 	"Resistor, 200k, 100mW, 0603, 1%"	Resistor	1%	75V	603	200k	ohm
 CRCW06030000Z0EA	Vishay Dale	NW	52K8014	"Resistor, 0 ohm, Jumper, 100 mW, 0603, 1%"	Resistor	*	*	603	0 ohm		
 EXB-2HV102JV	Panasonic	DK	Y1102CT-ND	"Resistor array, 8x0402, 1 k ohm, 63 mW, 5%, 200ppm"	Resistor	5%	*	402	1k ohm		
 ERJ-2RKF1021X	Panasonic	DK	P1.02KLCT-ND	"Resistor, 1.02k ohm, 0.1W, 1%, 100ppm, 0402"	Resistor	1%	*	402	1.02k ohm		
