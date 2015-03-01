@@ -88,6 +88,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 55959-2030	Molex	NW	09J7572	"Micro-Clasp header, 20pos, 2 rows, RA, through-hole"	Connector	*	*	*	*	1.13	Connectors
 55959-1030	Molex	DK	WM7595-ND	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*		
 6-534237-8	TE Connectivity	DK	A32916-ND	"Header, Female socket, .1"", 1-row, 20-pos"	Connector	*	*	*	*		
+105028-1001	Molex	Mouser	538-105028-1001	"Lepton Camera Socket"	Socket	*	*	*	*		
 534237-4	TE Connectivity	DK	A26418-ND	"Header, Female socket, .1"", 1-row, 6-pos"	Connector	*	*	*	*		
 2213S-20G	Multicomp	NW	08N6794	"""Header, Male pin, 0.1"""", 20 pos, 2 rows"""	Connector	*	*	*	*		
 9-146274-0-20	TE Connectivity	DK	A34259-20-ND	"Header, Male pin, .1"" 1-row, 20 pos, breakable (Long Pins)"	Connector	*	*	*	*		
@@ -103,6 +104,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 1217107-1	TE Connectivity	DK	A110905CT-ND	"Quick-connect receptacle, female blade terminal, PCB mount, horizontal"	Connector	*	*	*	*		
 R30-1011102	Harwin Inc	DK	952-1486-ND	"Standoff, Hex, M3 x 11mm. (suitable for .1�۝ header board-to-board stack)"	Connector	*	*	*	*		
 A-DF-09-A/KG-T4S	Assmann WSW Component	DK	AE10924-ND	"D-Sub connector, 9 pos, DE shell size, female, RA, through hole PCB"	Connector	*	*	*	*	0.78	Connectors
+KC5032A25.0000CM0E00	AVX	DK	1253-1043-1-ND	"Oscillator, 25MHz, 1.6V-5.5V, 5x3.2mm SMD"	Oscillator	50ppm	1.6-5.5V	5x3.2SMD	25MHz	1.46	Oscillator
 ECS-200-8-30B-CKM	ECS Inc	DK	XC1841CT-ND	"Crystal, 20MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	20MHz		
 ECS-100-8-30B-CKM	ECS Inc	DK	XC1835CT-ND	"Crystal, 10MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	10MHz		
 R-78C3.3-1.0	Recom	DK	945-1394-5-ND	"DC-DC Converter, 1A, 9-42V input, 3.3V output, Non-Isolated, 78xx replacement"	DC/DC	*	3.3V	SIP3	1A		
@@ -138,8 +140,10 @@ CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPRO
 ISO1050DUBR	Texas Instruments	NW	14R9899	"IC, CAN TXRX, 1MBPS, 1/1, 5V, SOP-8"	"ICs, Communication"	*	*	SOP-8	*	4.54	ICs
 SN65HVD1050D	Texas Instruments	NW	70K4439	"IC, CAN TX/RX, 1 MBps, 5.5V, 8-SOIC"""	"ICs, Communication"	*	*	SOIC-8	*	1.32	ICs
 MCP2515-I/SO	Microchip	DK	MCP2515-I/SO-ND	"IC, CAN Controller. SPI interface, SOIC-18"	"ICs, Communication"	*	*	SOIC-18	*		
-FT232RL	FTDI	DK	768-1007-1-ND	"IC, USB Serial, SSOP-28"	"Ics, Communication"	*	*	SSOP-28	*		
+FT232RL	FTDI	DK	768-1007-1-ND	"IC, USB Serial, SSOP-28"	"Ics, Communication"	*	*	SSOP-28	*	7.68	ICs
+FT245RL	FTDI	NW	91K9920	"IC, USB FIFO, SSOP-28"	"Ics, Communication"	*	*	SSOP-28	*		
 SN65HVD230D	Texas Instruments	NW	75C7744	"IC, CAN Transceiver, 3.3V, with Standby, SOIC-8"	"ICs, Communication"	*	*	SOIC-8	*		
+LSF0108PWR	Texas Instruments	NW	74X9873	"IC, Bidirectional Level Translator 8 channel, TSSOP-20"	"Ics Communication"	*	*	TSSOP-20	*	1.68	ICs
 ISO7241CDW	Texas Instruments	NW	73M3155	"IC, Digital Isolator, 150Mbps"	"ICs, Isolation"	*	*	SOIC-16	*		
 ISO1541DR	Texas Instruments	DK	296-34872-1-ND	"IC, I2C Digital Isolator, 1Mbps"	"ICs, Isolation"	*	*	SOIC-8	*		
 NE555N	STMICROELECTRONICS	NW	89K1486	"IC, Timer, 555, DIP8"	"ICs, Linear"	*	16V	DIP8	*		
@@ -157,6 +161,8 @@ AD8662ARMZ	Analog Devices	DK	AD8662ARMZ-REELCT-ND	"IC, Dual Op-Amp, Single Suppl
 TPS560200DBVR	Texas Instruments			"IC, Synchronous Step-Down Converter, 4.5V - 17V Input, 5-SOT-23"	"ICs, Power Elec"	*	*	SOT-23-5	*		
 ADUM5000ARWZ	Analog Devices	NW	19P8235	"IC, DC/DC Conv, 180MHz, 3.3V-5V in, 3.3V/5V out"	"ICs, Power Elec"	*	*	SOIC-16	*		
 LP38693MP-3.3/NOPB	Texas Instruments	NW	41K7496	"IC, LDO VOLT REG, 3.3V, 0.5A, SOT-223-5"	"ICs, Power Elec"	*	*	SOT-223	*	1.53	ICs
+MIC5255-2.8YD5 TR	Micrel	DK	576-2818-1-ND	"IC, LDO Volt Reg, 2.8V, .15A, SOT-23-5"	"Ics, Power Elec"	*	*	SOT-23-5	*	1.14	ICs
+MIC5268-1.2YM5 TR	Micrel	NW	26R6811	"IC, LDO Volt Reg, 1.2V, .15A, SOT-23-5"	"Ics, Power Elec"	*	*	SOT-23-5	*	.92	ICs
 LMR14206XMKE/NOPB	Texas Instruments	NW	76T5004	"IC, DC-DC Conv, Buck, 42 Vin, 1.25 MHz, SOT23-6"	"ICs, Power Elec"	*	*	SOT-23-6	*	2.72	ICs
 ULN2003V12DR	Texas Instruments	DK	296-30538-1-ND	"IC, Low Power 7ch Sink Driver, SOIC-16"	"ICs, Power Elec"	*	*	SOIC-16	*		
 LTC1156CSW	Linear Technology	DK	LTC1156CSW#PBF-ND	High-side N-Channel MOSFET Gate Driver	"ICs, Power Elec"	*	*	SOIC-16	*		
