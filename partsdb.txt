@@ -236,6 +236,7 @@ ERJ-3EKF4701V	Panasonic	DK	P4.70KHCT-ND	"Resistor, 4.7k ohm 1%, 100 mW, 100ppm, 
 ERJ-14YJ470U	Panasonic	NW	53W4126	"Resistor, 47 ohm, 5%, 500 mW, 1210"	Resistor	5%	200 V	1210	47 ohm		
 CRCW251247R0FKEG	Vishay Dale	DK	541-47.0AFCT-ND	"Resistor, 47 ohm 500 mW, 1%, 2512, 500 V"	Resistor	1%	500 V	2512	47 ohm		
 CRCW1210470RFKEA	Vishay Dale	DK	541-470AACT-ND	"Resistor, 470 ohm, 500 mW, 1%, 1210"	Resistor	1%	*	1210	470 ohm		
+ERJ-3GEYJ5R6V	Panasonic	NW	65T8659	"Resistor, 5.5 ohm, 100 mW, 5%, 0603"	Resistor	5%	75 V	0603	5.6 ohm	0.002	Passives
 ERJ-3EKF5601V	Panasonic	NW	64R5354	"Resistor, 5.6 kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	5.6 kohm	0.096	Passives
 MOR03SJ0100A19	Multicomp	NW	74M3341	"Resistor, 10 ohm, 3W, 5%, "	Resistor	5%	350V	*	10 ohm 		
 ERJ-6ENF1001V	Panasonic	NW	64R5369	"RESISTOR, THICK FILM, 1KOHM, 125mW, 1%"	Resistor	1%	*	603	1k ohm		
