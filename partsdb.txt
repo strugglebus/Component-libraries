@@ -198,6 +198,7 @@ IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2F
 MC0805WA00000T5E-TC	Multicomp	NW	58K4927	"Resistor, 0 ohm, Jumper, 100 mW, 0805, 1%"	Resistor	1%	150V	805	0 ohm		
 CRCW06030000Z0EA	Vishay Dale	NW	52K8014	"Resistor, 0 ohm, Jumper, 100 mW, 0603, 1%"	Resistor	*	*	603	0 ohm		
 EXB-2HV102JV	Panasonic	DK	Y1102CT-ND	"Resistor array, 8x0402, 1 k ohm, 63 mW, 5%, 200ppm"	Resistor	5%	*	402	1k ohm		
+CRA2512-FZ-R010ELF	Bourns Inc	DK	CRA2512-FZ-R010ELFCT-ND	Resistor SMD 0.01 OHM 1% 3W 2512	Resistor	1%	*	2512	0.1 ohm	0.6	
 ERJ-2RKF1021X	Panasonic	DK	P1.02KLCT-ND	"Resistor, 1.02k ohm, 0.1W, 1%, 100ppm, 0402"	Resistor	1%	*	402	1.02k ohm		
 ERJ-2RKF1471X	Panasonic	NW	53W4223	"RESISTOR, THICK FILM, 1.47KOHM, 100mW, ﾱ 1%, 0402"	Resistor	1%	*	402	1.47k ohm		
 CRCW06031K47FKEA	Vishay Dale	DK	541-1.47KHCT-ND	"Resistor, 1.47k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.47k ohm		
