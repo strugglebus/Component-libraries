@@ -1,0 +1,128 @@
+/* make_pdfs.ulp: Print the current schematic and board to a PDF file.
+ * Aaron Bonnell-Kangas, March 2015.
+ */
+ 
+#usage "en: make_pdfs\n"
+	"Print the current schematic and board to a PDF file."
+
+string cmd 	= "";
+string s, topLayers, bottomLayers, inner1Layers, inner2Layers;
+real scale;
+int fourLayer = 0;
+
+// Layer group to be printed for each PDF.
+topLayers 		= "Top tPlace tDocu tOrigins tValues tNames Dimension Pads Vias Holes";
+bottomLayers 	= "Bottom bPlace bDocu bOrigins bValues bNames Dimension Pads Vias Holes";
+inner1Layers 	= "Route2 Dimension Pads Vias Holes";
+inner2Layers 	= "Route15 Dimension Pads Vias Holes";
+
+
+if( !schematic ){
+	dlgMessageBox( "Could you run this script from the schematic, please?" );
+	exit(EXIT_SUCCESS);
+}
+
+// Print schematic.
+cmd 	+= "SET CONFIRM YES; \
+	PRINT 0.95 -0 - SOLID FILE '%P/%N schematic.pdf' SHEETS ALL LANDSCAPE; \
+	SET CONFIRM OFF;";
+cmd 	+= "BOARD;";
+
+if(1){		// TODO: remove? Check if board exists
+	// Limits of wire on "Dimension" layer
+	int xmin, xmax, ymin, ymax = 0;
+	
+	project.board(B) {
+		// Loop over all wires. Determine the max. coordinates of the wires
+		//   on the "Dimension" layer (board limits).
+		B.wires(W) {
+			if (W.layer == 20) {	// wire is on "Dimension" layer
+				if( W.x1 < xmin ){
+					xmin = W.x1;
+				}
+				if( W.x1 > xmax ){
+					xmax = W.x1;
+				}
+				if( W.x2 < xmin ){
+					xmin = W.x2;
+				}
+				if( W.x2 > xmax ){
+					xmax = W.x2;
+				}
+				if( W.y1 < ymin ){
+					ymin = W.y1;
+				}
+				if( W.y1 > ymax ){
+					ymax = W.y1;
+				}
+				if( W.y2 < ymin ){
+					ymin = W.y2;
+				}
+				if( W.y2 > ymax ){
+					ymax = W.y2;
+				}
+			}
+		}
+		
+		// Fit the "Dimension" layer in a pageW x pageH rect centered on the page
+		int pageW = 10;		// inches
+		int pageH = 7;		// inches
+	
+		int boardW = u2inch(xmax - xmin);
+		int boardH = u2inch(ymax - ymin);
+		
+		scale = min( pageW / boardW, pageH / boardH );
+		
+		// Check if inner layers are used (i.e., the board is 4-layer)
+		B.layers(L){
+			if( (L.number == 2 && L.used == 1) || (L.number == 15 && L.used == 1) ){
+				fourLayer = 1;
+			}
+		}
+	}
+	
+	// *** OK, print it.
+		// TODO: print some kind of info on the thing
+		// TODO: Display "Name"/"Value" layers on top of other layers.
+		// TODO: Set palette to something standard.
+		// TODO: Save layer visibility state and restore it afterwards.
+		
+	// Print inner layers if applicable
+	if( fourLayer == 1 ){
+		sprintf( s, "DISPLAY NONE; \
+			DISPLAY %s; \
+			SET CONFIRM YES; \
+			PRINT %f -0 - FILE '%%P/%%N - Inner Layer 1.pdf' LANDSCAPE SOLID; \
+			SET CONFIRM OFF;", inner1Layers, scale );
+		cmd += s;
+		
+		sprintf( s, "DISPLAY NONE; \
+			DISPLAY %s; \
+			SET CONFIRM YES; \
+			PRINT %f -0 - FILE '%%P/%%N - Inner Layer 2.pdf' LANDSCAPE SOLID; \
+			SET CONFIRM OFF;", inner2Layers, scale );
+		cmd += s;
+	}
+		
+	// Print bottom layers
+	sprintf( s, "DISPLAY NONE; \
+		DISPLAY %s; \
+		SET CONFIRM YES; \
+		PRINT %f -0 - FILE '%%P/%%N - bottom.pdf' LANDSCAPE; \
+		SET CONFIRM OFF;", bottomLayers, scale );
+	cmd += s;
+	
+	// Print top layers
+	cmd += "DISPLAY NONE;";
+	sprintf( s, "SET CONFIRM YES; \
+		DISPLAY %s; \
+		PRINT %f -0 - FILE '%%P/%%N - top.pdf' LANDSCAPE; \
+		SET CONFIRM OFF;", topLayers, scale );
+	cmd += s;
+
+}
+
+// debug
+// dlgMessageBox( cmd );
+
+exit(cmd);
