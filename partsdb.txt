@@ -77,7 +77,8 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"0.05"" male pin header, 2 rows, 14 positions 
 43045-0615	Molex	DK	WM6688CT-ND	"Micro-Fit header, 6pos, vertical, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*		
 43045-1016	Molex	DK	WM6690CT-ND	"Micro-Fit header, 10pos, vert, SMT, Press-Fit Retention, 0.38 um Gold"	Connector	*	*	*	*		
 502351-0200	Molex	NW	08R4872	"Dura-Clik receptacle (plug), 2pos"	Connector	*	*	*	*		
-502352-0200	Molex	DK	WM7169CT-ND	"Molex Dura-Clik Header, 2pos, RA, SMT"	Connector	*	*	*	*		
+502352-0200	Molex	NW	08R4876	"Molex Dura-Clik Header, 2pos, RA, SMT"	Connector	*	*	*	*	0.69	Connectors
+560020-0220	Molex	DK	WM10862CT-ND	"Molex Dura-Clik Header, 2pos, Vertical, SMT"	Connector	*	*	*	*	0.82	Connectors
 56134-9000	Molex	DK	WM3454CT-ND	"MicroClas terminal, 22-28awg, tin"	Connector	*	*	*	*		
 55959-2630	Molex	NW	95M2858	"2.00mm Pitch MicroClaspô Wire-to-Board Header, Dual Row, Right Angle, 26 Circuits"	Connector*		*	*	*		
 502352-0800	Molex	DK	WM7175CT-ND	"Molex Dura-Clik Header, 8pos, RA, SMT"	Connector	*	*	*	*		
