@@ -48,6 +48,7 @@ C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 060
 39502-1002	Molex	NW	03N5770	"Eurostyle Terminal Block, 2ckt, horizontal/RA, rct"	Connector	*	*	*	*		
 39500-0002	Molex	NW	21M3111	"Eurostyle pluggable screw terminal block, 3.5mm pitch (mates with 39502-1002)"	Connector	*	*	*	*		
 50212-8100	Molex	NW	95C1851	"Dura-Clik terminal, 30-24awg, tin, bag"	Connector	*	*	*	*		
+560020-0320	Molex	DK	WM10863CT-ND	"Molex Dura-Clik header, 3pos, vertical, SMT"	Connector	*	*	*	*	0.91	Connectors
 502352-0400	Molex	NW	08R4877	"Molex Dura-Clik Header, 4pos, RA, SMT"	Connector	*	*	*	*		
 502352-0600	Molex	NW	08R4878	"Molex Dura-Clik Header, 6pos, RA, SMT"	Connector	*	*	*	*		
 55959-1030	Molex	NW	09J7567	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*		
