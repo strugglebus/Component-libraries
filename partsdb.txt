@@ -195,6 +195,7 @@ MCP1825T-3302E/DC	Microchip	DK	MCP1825T-3302E/DC	"LDO, 3.3V, 500 mA, SOT-223-5"	
 MIC5205-3.3YM5 TR	Micrel	DK	576-1259-1-ND	"LDO, 3.3V 150mA, SOT-23-5"	Linear Regulator	*	*	SOT-23	3.3V		
 TMS320F28035PNT	Texas Instruments	DK	296-32764-ND	"IC, MCU, C2000 piccolo, LQFP80"	"ICs, MCU"	*	*	LQFP-80	*	12.38	ICs
 FDN359AN	Fairchild Semiconductor	NW	38C7142	"N-channel MOSFET, 30 V, 2.7 A, SOT-23"	MOSFET	*	30 V	SOT-23	*		
+BSS84	Fairchild Semiconductor	NW	58K8770	"P-Channel Enhancement Mode Field-Effect Transistor, -0.13 A, -50 V, SOT-23"	* -50 V	SOT-23	*	0.1926	Semiconductors
 FDC604P	Fairchild Semiconductor	DK	FDC604PCT-ND	"P-channel MOSFET, 20V, 5.5A, SSOT-6"	MOSFET	*	20V	SSOT-6	*		
 IRF9410PBF	International Rectifier	NW	19K8340	"N CHANNEL MOSFET, 30V, 7A, SOIC"	MOSFET	*	30V	SOIC-8	*		
 IRFL024ZPbF	International Rectifier	NW	63J6797	"N-Channel MOSFET, 55V, 5.1A, SOT-223"	MOSFET	*	55V	SOT-223	5.1A		
